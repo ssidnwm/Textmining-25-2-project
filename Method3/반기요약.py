@@ -1,0 +1,128 @@
+import os
+import re
+import pandas as pd
+from langchain_openai import ChatOpenAI
+from langchain.schema import HumanMessage
+from datetime import datetime
+
+# 1. 설정
+# 파일 경로와 파일 이름
+file_path = "C:/Users/82109/Desktop/벼리/7학기/텍스트마이닝/GPT기반방법론/논문일별요약/논문월별요약/반기_요약_병합.csv" # 경로 변경하기
+
+# 결과물을 저장할 폴더 설정 (원본 파일 위치에 '샘플 이벤트' 폴더 생성)
+folder_path = os.path.dirname(file_path)
+save_dir = os.path.join(folder_path, "논문월별요약")
+timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+save_path_csv = os.path.join(save_dir, f"반기요약.csv") # 파일명 변경하기
+save_path_xlsx = save_path_csv.replace(".csv", ".xlsx")
+
+# CSV 파일 불러오기
+try:
+    df = pd.read_csv(file_path, encoding='utf-8-sig').reset_index(drop=True)
+    print("데이터를 성공적으로 불러왔습니다.")
+    
+    # 불러온 데이터의 일부 확인 (처음 5줄)
+    print(df.head())
+
+except FileNotFoundError:
+    print(f"오류: 지정된 경로에 파일이 없습니다. 경로를 다시 확인해주세요: {file_path}")
+    exit() # 파일이 없으면 스크립트 종료
+
+# --- 중요: 여기에 OpenAI API 키를 입력하세요 ---
+os.environ["OPENAI_API_KEY"] = "api key"
+
+chat_model = ChatOpenAI(model="gpt-4o-mini")
+
+# 2. 프롬프트 정의
+prompt_header = """
+You are given a collection of monthly research summaries that together cover a six-month (half-year) period. 
+Each monthly summary was derived from multiple research papers in the field of anthropomechanics and biomechanics in sport: football. 
+Your goal is to analyze these monthly summaries as a whole and identify the major research trends and shifts across this half-year period.
+
+**Output Requirements**
+1. Identify dominant and recurring research directions that persisted across the months within this half-year.
+2. Highlight any emerging or evolving topics that gained attention or methodological shifts during this period.
+3. Summarize in 5–8 sentences the overall research direction, continuity, and new developments during this half-year.
+4. Maintain an objective and factual tone — describe only what is supported by the summaries.
+5. Emphasize the evolution of methods, applications, and problem domains (e.g., motion tracking, injury risk modeling, player performance metrics).
+6. Avoid repeating month-level summaries; instead, synthesize cross-month insights.
+7. Output format:
+   - **Half-Year:** (e.g., 2025-H1)
+   - **Core Research Trends:** (concise 1-paragraph synthesis of recurring themes and methods)
+   - **Emerging or Shifting Topics:** (short paragraph or list describing newly prominent or evolving directions)
+   - **Representative Keywords/Methods:** (comma-separated list)
+"""
+
+# 3. 저장 디렉토리 생성
+os.makedirs(save_dir, exist_ok=True)
+print(f"결과물은 다음 위치에 저장됩니다: {save_dir}")
+
+# 4. 전체 파일 처리 (한 줄씩 LLM 호출)
+print(f"파일 처리 중: {os.path.basename(file_path)}")
+try:
+    if not all(col in df.columns for col in ['half', 'n_items', 'merged_compact']):
+        print(f"'{os.path.basename(file_path)}' 파일에 필수 컬럼(merged_compact, n_items, half)이 없어 건너뜁니다.")
+        exit()
+    
+    valid_rows = []
+    total_rows = len(df)
+    
+    for idx, row in df.iterrows():
+        print(f"처리 중... ({idx+1}/{total_rows})")
+
+        article_text = row.get('merged_compact', 'N/A') 
+        article_date = row.get('half', 'N/A')
+        
+        # 각 행에 대한 개별 프롬프트 생성
+        news_block = f"merged_compact: {article_text}\half: {article_date}\n"
+        full_prompt = prompt_header + "\n" + news_block
+
+        try:
+            response = chat_model.invoke([HumanMessage(content=full_prompt)])
+            event = response.content.strip()
+            
+                
+        except Exception as e:
+            print(f"LLM 호출 중 오류 발생: {e}. 다음 행으로 넘어갑니다.")
+            continue
+
+        
+        new_row = {
+                "half": row.get("half", ""),
+                "merged_compact": row.get("merged_compact", ""),
+                "요약": event
+            }
+        valid_rows.append(new_row)
+
+    if valid_rows:
+        df_to_save = pd.DataFrame(valid_rows)
+        df_to_save.to_csv(
+            save_path_csv,
+            index=False,
+            encoding='utf-8-sig'
+        )
+        print(f"{len(valid_rows)}개의 유효한 데이터를 CSV에 저장했습니다.")
+    else:
+        print("유효한 데이터가 없어 CSV 파일에 저장할 내용이 없습니다.")
+
+except Exception as e:
+    print(f"파일 '{os.path.basename(file_path)}' 처리 중 오류 발생: {e}")
+
+# 5. 최종 CSV 파일을 Excel로 저장
+if os.path.exists(save_path_csv) and os.path.getsize(save_path_csv) > 0:
+    print(f"\nCSV 파일을 Excel로 변환 중: {os.path.basename(save_path_xlsx)}...")
+    try:
+        df_final = pd.read_csv(save_path_csv, on_bad_lines='skip')
+        df_final.to_excel(save_path_xlsx, index=False, engine='openpyxl')
+        print("모든 작업 완료! CSV와 Excel 파일이 모두 저장되었습니다.")
+    except Exception as e:
+        print(f"Excel 저장 중 오류 발생: {e}")
+else:
+    print("\n저장할 유효한 데이터가 없습니다. 출력 파일이 생성되지 않았습니다.")
+    
+# 총 소요시간만 출력
+elapsed = time.perf_counter() - t0
+h, rem = divmod(int(elapsed), 3600)
+m, s = divmod(rem, 60)
+ms = int((elapsed - int(elapsed)) * 1000)
+print(f"\n총 소요시간: {h:02d}:{m:02d}:{s:02d}.{ms:03d}")

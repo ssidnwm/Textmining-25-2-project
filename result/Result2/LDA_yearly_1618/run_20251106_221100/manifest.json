@@ -1,0 +1,36 @@
+{
+  "excel": "C:\\Users\\82109\\Desktop\\벼리\\7학기\\텍스트마이닝\\scripts\\텍스트마이닝_초록_검사결과_전체컬럼1618.xlsx",
+  "sheet": null,
+  "text_col": "abstract",
+  "year_source": "year",
+  "bins": [
+    [
+      2016,
+      2016
+    ],
+    [
+      2017,
+      2017
+    ],
+    [
+      2018,
+      2018
+    ]
+  ],
+  "bin_mode": "auto_size_1",
+  "bin_size": 1,
+  "year_min": 2016,
+  "year_max": 2018,
+  "k_list": [
+    6,
+    6,
+    6
+  ],
+  "min_df": 1,
+  "max_df": 0.95,
+  "max_features": null,
+  "n_top_terms": 15,
+  "n_iter": 30,
+  "random_state": 42,
+  "created": "20251106_221100"
+}

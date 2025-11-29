@@ -1,0 +1,1296 @@
+﻿year,doc_id,title,keyword,tfidf,cluster
+2017,0,The VEGFA gene and anterior cruciate ligament rupture risk in the Caucasian population,functional movement,0.23485040960482934,2
+2017,0,The VEGFA gene and anterior cruciate ligament rupture risk in the Caucasian population,movement,0.23292387041204324,5
+2017,0,The VEGFA gene and anterior cruciate ligament rupture risk in the Caucasian population,head impact,0.20703413486518454,5
+2017,0,The VEGFA gene and anterior cruciate ligament rupture risk in the Caucasian population,head,0.20134472129991643,5
+2017,0,The VEGFA gene and anterior cruciate ligament rupture risk in the Caucasian population,impact,0.17257788575393462,5
+2017,1,The relationship between ACTN3 R577X gene polymorphism and physical performance in amateur soccer players and sedentary individuals,tp,0.3106453307110335,5
+2017,1,The relationship between ACTN3 R577X gene polymorphism and physical performance in amateur soccer players and sedentary individuals,loads,0.173035156279723,5
+2017,1,The relationship between ACTN3 R577X gene polymorphism and physical performance in amateur soccer players and sedentary individuals,maximal,0.1714180832728488,5
+2017,1,The relationship between ACTN3 R577X gene polymorphism and physical performance in amateur soccer players and sedentary individuals,power,0.1714180832728488,5
+2017,1,The relationship between ACTN3 R577X gene polymorphism and physical performance in amateur soccer players and sedentary individuals,velocity power,0.1624664459692354,1
+2017,2,Reliability and validity of field‐based fitness tests in youth soccer players,rpe,0.3028482345409934,5
+2017,2,Reliability and validity of field‐based fitness tests in youth soccer players,machine learning,0.2692347589794109,5
+2017,2,Reliability and validity of field‐based fitness tests in youth soccer players,machine,0.23320582261322276,5
+2017,2,Reliability and validity of field‐based fitness tests in youth soccer players,models,0.212694010646415,5
+2017,2,Reliability and validity of field‐based fitness tests in youth soccer players,learning,0.2109871624017658,5
+2017,3,A mathematical model for decision-making in the classification of para-footballers with different severity of coordination impairments,tmg,0.22685747064320305,5
+2017,3,A mathematical model for decision-making in the classification of para-footballers with different severity of coordination impairments,asymmetry,0.17601360889108122,5
+2017,3,A mathematical model for decision-making in the classification of para-footballers with different severity of coordination impairments,sj,0.17601360889108122,5
+2017,3,A mathematical model for decision-making in the classification of para-footballers with different severity of coordination impairments,asymmetries,0.17105172143319594,5
+2017,3,A mathematical model for decision-making in the classification of para-footballers with different severity of coordination impairments,jump,0.16073564398670945,5
+2017,4,Postural Control Deficits After Repetitive Soccer Heading,stress,0.30666208634331965,4
+2017,4,Postural Control Deficits After Repetitive Soccer Heading,person,0.2434347208196056,5
+2017,4,Postural Control Deficits After Repetitive Soccer Heading,symptoms,0.17883500004281075,5
+2017,4,Postural Control Deficits After Repetitive Soccer Heading,month,0.16663820736773677,5
+2017,4,Postural Control Deficits After Repetitive Soccer Heading,during subsequent,0.14318257349201233,3
+2017,5,Comparative Analysis of Load Profile between Small-Sided Games and Official Matches in Youth Soccer Players,surfaces,0.2924067741917744,3
+2017,5,Comparative Analysis of Load Profile between Small-Sided Games and Official Matches in Youth Soccer Players,responses,0.22133571477674321,5
+2017,5,Comparative Analysis of Load Profile between Small-Sided Games and Official Matches in Youth Soccer Players,mechanical properties,0.2179753551132821,2
+2017,5,Comparative Analysis of Load Profile between Small-Sided Games and Official Matches in Youth Soccer Players,ng,0.1964727363742716,5
+2017,5,Comparative Analysis of Load Profile between Small-Sided Games and Official Matches in Youth Soccer Players,properties,0.1804071606163854,1
+2017,6,Comparison of Change of Direction Speed Performance and Asymmetries between Team-Sport Athletes: Application of Change of Direction Deficit,test,0.30757739377272825,5
+2017,6,Comparison of Change of Direction Speed Performance and Asymmetries between Team-Sport Athletes: Application of Change of Direction Deficit,group test,0.2714949986203233,5
+2017,6,Comparison of Change of Direction Speed Performance and Asymmetries between Team-Sport Athletes: Application of Change of Direction Deficit,model,0.2228608517796441,5
+2017,6,Comparison of Change of Direction Speed Performance and Asymmetries between Team-Sport Athletes: Application of Change of Direction Deficit,drill,0.2215341115696534,5
+2017,6,Comparison of Change of Direction Speed Performance and Asymmetries between Team-Sport Athletes: Application of Change of Direction Deficit,play training,0.17303809643002072,5
+2017,7,Data-Driven Visual Performance Analysis in Soccer: An Exploratory Prototype,preadolescent,0.32551407104026564,5
+2017,7,Data-Driven Visual Performance Analysis in Soccer: An Exploratory Prototype,adolescent,0.23412586693049398,5
+2017,7,Data-Driven Visual Performance Analysis in Soccer: An Exploratory Prototype,adolescent athletes,0.2079610228134501,5
+2017,7,Data-Driven Visual Performance Analysis in Soccer: An Exploratory Prototype,athletes,0.18455400986145387,5
+2017,7,Data-Driven Visual Performance Analysis in Soccer: An Exploratory Prototype,preadolescent athletes,0.17403888372658105,5
+2017,8,Football concussion case series using biomechanical and video analysis,features,0.24812203157019388,4
+2017,8,Football concussion case series using biomechanical and video analysis,detection,0.24400449231424026,5
+2017,8,Football concussion case series using biomechanical and video analysis,classifier,0.23220487870810214,5
+2017,8,Football concussion case series using biomechanical and video analysis,head,0.22065582072246662,5
+2017,8,Football concussion case series using biomechanical and video analysis,impact,0.18912993980537163,5
+2017,9,Head impact burden and change in neurocognitive function over 2 seasons of youth football participation,of learning,0.34434965270831064,5
+2017,9,Head impact burden and change in neurocognitive function over 2 seasons of youth football participation,content,0.3311586831777707,5
+2017,9,Head impact burden and change in neurocognitive function over 2 seasons of youth football participation,learning,0.3288657836658467,5
+2017,9,Head impact burden and change in neurocognitive function over 2 seasons of youth football participation,coaches,0.26911235943637696,5
+2017,9,Head impact burden and change in neurocognitive function over 2 seasons of youth football participation,content of,0.25397103315474107,5
+2017,10,History of undiagnosed concussion is associated with concussion-like symptoms following subconcussive head impacts,strength,0.2556617985138992,4
+2017,10,History of undiagnosed concussion is associated with concussion-like symptoms following subconcussive head impacts,parameters,0.1636104080338956,5
+2017,10,History of undiagnosed concussion is associated with concussion-like symptoms following subconcussive head impacts,football,0.16160083170274994,5
+2017,10,History of undiagnosed concussion is associated with concussion-like symptoms following subconcussive head impacts,players need,0.1577558658736879,5
+2017,10,History of undiagnosed concussion is associated with concussion-like symptoms following subconcussive head impacts,plans,0.1577558658736879,5
+2017,11,Concussion history and career status influence sports concussion assessment tool (SCAT-3) performance in elite football players,qcon,0.3148144298187863,5
+2017,11,Concussion history and career status influence sports concussion assessment tool (SCAT-3) performance in elite football players,specificity,0.2670431956673705,5
+2017,11,Concussion history and career status influence sports concussion assessment tool (SCAT-3) performance in elite football players,cut off,0.21767594733723464,5
+2017,11,Concussion history and career status influence sports concussion assessment tool (SCAT-3) performance in elite football players,isokinetic,0.21394837075828008,5
+2017,11,Concussion history and career status influence sports concussion assessment tool (SCAT-3) performance in elite football players,cut,0.17144910541675273,5
+2017,12,Y-Balance test asymmetry is greater in collegiate athletes with a history of concussion,optimization,0.2989522449089484,5
+2017,12,Y-Balance test asymmetry is greater in collegiate athletes with a history of concussion,article,0.25843583331424685,5
+2017,12,Y-Balance test asymmetry is greater in collegiate athletes with a history of concussion,head injuries,0.2245825754257125,6
+2017,12,Y-Balance test asymmetry is greater in collegiate athletes with a history of concussion,optimization of,0.2009561994779702,5
+2017,12,Y-Balance test asymmetry is greater in collegiate athletes with a history of concussion,computational,0.2009561994779702,2
+2017,13,The effects of midsole bending stiffness on ball speed during maximum effort soccer kicks,curl,0.602041138448474,5
+2017,13,The effects of midsole bending stiffness on ball speed during maximum effort soccer kicks,nordic,0.27915608256290875,5
+2017,13,The effects of midsole bending stiffness on ball speed during maximum effort soccer kicks,leg curl,0.2736550629311245,5
+2017,13,The effects of midsole bending stiffness on ball speed during maximum effort soccer kicks,semitendinosus,0.19573032203756727,5
+2017,13,The effects of midsole bending stiffness on ball speed during maximum effort soccer kicks,biceps femoris,0.17544812290346773,5
+2017,14,Greater exposure to repetitive subconcussive head impacts is associated with vestibular dysfunction and balance impairments during walking,second acl,0.30524762965541535,5
+2017,14,Greater exposure to repetitive subconcussive head impacts is associated with vestibular dysfunction and balance impairments during walking,rts,0.2394652001551264,5
+2017,14,Greater exposure to repetitive subconcussive head impacts is associated with vestibular dysfunction and balance impairments during walking,hop distance,0.22076842465818075,5
+2017,14,Greater exposure to repetitive subconcussive head impacts is associated with vestibular dysfunction and balance impairments during walking,triple hop,0.22076842465818075,5
+2017,14,Greater exposure to repetitive subconcussive head impacts is associated with vestibular dysfunction and balance impairments during walking,triple,0.21409525663951506,5
+2017,15,Biomechanical comparison of concussions with and without a loss of consciousness in elite American football,futsal,0.31901446697866487,2
+2017,15,Biomechanical comparison of concussions with and without a loss of consciousness in elite American football,strength,0.28114228531159513,4
+2017,15,Biomechanical comparison of concussions with and without a loss of consciousness in elite American football,quadriceps strength,0.2405807978030214,4
+2017,15,Biomechanical comparison of concussions with and without a loss of consciousness in elite American football,nm,0.23592467833778827,5
+2017,15,Biomechanical comparison of concussions with and without a loss of consciousness in elite American football,strength ratio,0.2132451358682517,4
+2017,16,A single season of soccer results in no significant neurophysiological changes in adolescent female athletes,fundamental,0.24649122266193557,2
+2017,16,A single season of soccer results in no significant neurophysiological changes in adolescent female athletes,fifa11plus,0.21618283220611645,5
+2017,16,A single season of soccer results in no significant neurophysiological changes in adolescent female athletes,eg,0.20119766188770163,5
+2017,16,A single season of soccer results in no significant neurophysiological changes in adolescent female athletes,fundamental movement,0.16120010004551416,2
+2017,16,A single season of soccer results in no significant neurophysiological changes in adolescent female athletes,six,0.1520754855326298,5
+2017,17,Changes in functional connectivity are associated with one season of head-to-ball impact exposure in male collegiate soccer athletes,cam,0.3813074897675581,5
+2017,17,Changes in functional connectivity are associated with one season of head-to-ball impact exposure in male collegiate soccer athletes,morphology,0.3480081974647314,5
+2017,17,Changes in functional connectivity are associated with one season of head-to-ball impact exposure in male collegiate soccer athletes,of cam,0.25483664063911393,5
+2017,17,Changes in functional connectivity are associated with one season of head-to-ball impact exposure in male collegiate soccer athletes,alpha,0.22179772157033373,5
+2017,17,Changes in functional connectivity are associated with one season of head-to-ball impact exposure in male collegiate soccer athletes,alpha angle,0.19659626081321638,1
+2017,18,In-season variations in head impact exposure among youth football players,of young,0.2385441350978601,5
+2017,18,In-season variations in head impact exposure among youth football players,young,0.21223609382260272,5
+2017,18,In-season variations in head impact exposure among youth football players,folds,0.1993753897462244,5
+2017,18,In-season variations in head impact exposure among youth football players,skin folds,0.1993753897462244,5
+2017,18,In-season variations in head impact exposure among youth football players,somatotype,0.19060869311773176,5
+2017,19,Head impact analysis in elite football (soccer),success,0.21753333545499284,4
+2017,19,Head impact analysis in elite football (soccer),to answer,0.15481100751964008,1
+2017,19,Head impact analysis in elite football (soccer),answer,0.15481100751964008,1
+2017,19,Head impact analysis in elite football (soccer),humans,0.15481100751964008,5
+2017,19,Head impact analysis in elite football (soccer),biology,0.14800384270655323,5
+2017,20,Effects on intracranial cerebral blood flow by history of concussion,board,0.27939882464969035,5
+2017,20,Effects on intracranial cerebral blood flow by history of concussion,ankle,0.21203996017746932,1
+2017,20,Effects on intracranial cerebral blood flow by history of concussion,training,0.20384759730959556,5
+2017,20,Effects on intracranial cerebral blood flow by history of concussion,ankle joint,0.1936077881967131,1
+2017,20,Effects on intracranial cerebral blood flow by history of concussion,motor coordination,0.19257935301290477,5
+2017,21,Management of osteitis pubis in athletes: rehabilitation and return to training &amp;ndash; a review of the most recent literature,water,0.38140432857067297,5
+2017,21,Management of osteitis pubis in athletes: rehabilitation and return to training &amp;ndash; a review of the most recent literature,in water,0.3546045293748877,5
+2017,21,Management of osteitis pubis in athletes: rehabilitation and return to training &amp;ndash; a review of the most recent literature,land,0.2458835053964748,5
+2017,21,Management of osteitis pubis in athletes: rehabilitation and return to training &amp;ndash; a review of the most recent literature,jumps,0.19626323631387657,5
+2017,21,Management of osteitis pubis in athletes: rehabilitation and return to training &amp;ndash; a review of the most recent literature,performed in,0.18631197295216545,5
+2017,22,Dual Kinect v2 system can capture lower limb kinematics reasonably well in a clinical setting: concurrent validity of a dual camera markerless motion capture system in professional football players,laceration,0.49999659247156913,5
+2017,22,Dual Kinect v2 system can capture lower limb kinematics reasonably well in a clinical setting: concurrent validity of a dual camera markerless motion capture system in professional football players,cleated,0.19755353652860014,5
+2017,22,Dual Kinect v2 system can capture lower limb kinematics reasonably well in a clinical setting: concurrent validity of a dual camera markerless motion capture system in professional football players,skin,0.17172973941497335,5
+2017,22,Dual Kinect v2 system can capture lower limb kinematics reasonably well in a clinical setting: concurrent validity of a dual camera markerless motion capture system in professional football players,test,0.16184212767839923,5
+2017,22,Dual Kinect v2 system can capture lower limb kinematics reasonably well in a clinical setting: concurrent validity of a dual camera markerless motion capture system in professional football players,phase,0.15790238404093326,5
+2017,23,Evaluation of Intrinsic Biomechanical Risk Factors in Patellar Tendinopathy: A Retrospective Radiographic Case-Control Series,education,0.40916803624504944,5
+2017,23,Evaluation of Intrinsic Biomechanical Risk Factors in Patellar Tendinopathy: A Retrospective Radiographic Case-Control Series,physical education,0.39351873012147937,2
+2017,23,Evaluation of Intrinsic Biomechanical Risk Factors in Patellar Tendinopathy: A Retrospective Radiographic Case-Control Series,chapter,0.3035839379605042,5
+2017,23,Evaluation of Intrinsic Biomechanical Risk Factors in Patellar Tendinopathy: A Retrospective Radiographic Case-Control Series,culture,0.24697074065330926,5
+2017,23,Evaluation of Intrinsic Biomechanical Risk Factors in Patellar Tendinopathy: A Retrospective Radiographic Case-Control Series,physical,0.17849657375535155,2
+2017,24,Knee and Hip Extension Responses to Prolonged Simulated Soccer Match-Play: a 2D Study,vgrf,0.34008729408793575,5
+2017,24,Knee and Hip Extension Responses to Prolonged Simulated Soccer Match-Play: a 2D Study,skilled soccer,0.23550417461461007,5
+2017,24,Knee and Hip Extension Responses to Prolonged Simulated Soccer Match-Play: a 2D Study,es,0.22810796329745978,5
+2017,24,Knee and Hip Extension Responses to Prolonged Simulated Soccer Match-Play: a 2D Study,skilled,0.21255455880495988,5
+2017,24,Knee and Hip Extension Responses to Prolonged Simulated Soccer Match-Play: a 2D Study,landing,0.2020588376124565,5
+2017,25,Evaluation of Brain Response during Head Impact in Youth Athletes Using an Anatomically Accurate Finite Element Model,ball,0.4566814877897372,5
+2017,25,Evaluation of Brain Response during Head Impact in Youth Athletes Using an Anatomically Accurate Finite Element Model,ball impact,0.35483925307835185,5
+2017,25,Evaluation of Brain Response during Head Impact in Youth Athletes Using an Anatomically Accurate Finite Element Model,impact force,0.231013126105156,5
+2017,25,Evaluation of Brain Response during Head Impact in Youth Athletes Using an Anatomically Accurate Finite Element Model,of ball,0.22174460878178057,5
+2017,25,Evaluation of Brain Response during Head Impact in Youth Athletes Using an Anatomically Accurate Finite Element Model,time history,0.2038147257392406,5
+2017,26,Sprint Mechanical Properties of Female and Different Aged Male Top-Level German Soccer Players,cod,0.31276566711634946,5
+2017,26,Sprint Mechanical Properties of Female and Different Aged Male Top-Level German Soccer Players,cut,0.2783297496407716,5
+2017,26,Sprint Mechanical Properties of Female and Different Aged Male Top-Level German Soccer Players,cutting,0.2446216147078281,5
+2017,26,Sprint Mechanical Properties of Female and Different Aged Male Top-Level German Soccer Players,completion,0.21262552735160659,5
+2017,26,Sprint Mechanical Properties of Female and Different Aged Male Top-Level German Soccer Players,sprint,0.20682572901531612,5
+2017,27,Interlimb Asymmetries Identified Using the Rate of Torque Development in Ballistic Contraction Targeting Submaximal Torques,gait,0.357499458051826,5
+2017,27,Interlimb Asymmetries Identified Using the Rate of Torque Development in Ballistic Contraction Targeting Submaximal Torques,task,0.30463962203741973,5
+2017,27,Interlimb Asymmetries Identified Using the Rate of Torque Development in Ballistic Contraction Targeting Submaximal Torques,dual task,0.2808226486139974,2
+2017,27,Interlimb Asymmetries Identified Using the Rate of Torque Development in Ballistic Contraction Targeting Submaximal Torques,dual,0.2497027575656091,2
+2017,27,Interlimb Asymmetries Identified Using the Rate of Torque Development in Ballistic Contraction Targeting Submaximal Torques,single task,0.22030392777941296,5
+2017,28,Biomechanics of coaching maximal instep soccer kick for practitioners,performers,0.4424460127930632,5
+2017,28,Biomechanics of coaching maximal instep soccer kick for practitioners,leg squat,0.31029943342485944,5
+2017,28,Biomechanics of coaching maximal instep soccer kick for practitioners,poor,0.2317923903294334,5
+2017,28,Biomechanics of coaching maximal instep soccer kick for practitioners,single leg,0.21467880277156404,5
+2017,28,Biomechanics of coaching maximal instep soccer kick for practitioners,squat,0.2132202772224578,5
+2017,29,Modeling the impact of impulse loads on protections of sports fields,bmi,0.37243569400363374,5
+2017,29,Modeling the impact of impulse loads on protections of sports fields,prevalence,0.29597926373653255,5
+2017,29,Modeling the impact of impulse loads on protections of sports fields,crude,0.23559973219995384,5
+2017,29,Modeling the impact of impulse loads on protections of sports fields,retirement,0.23559973219995384,5
+2017,29,Modeling the impact of impulse loads on protections of sports fields,diabetes,0.23559973219995384,5
+2017,30,5-a-side football for individuals with visual impairments: A review of the literature,bp,0.5049618107502294,5
+2017,30,5-a-side football for individuals with visual impairments: A review of the literature,stress,0.3155308213372572,4
+2017,30,5-a-side football for individuals with visual impairments: A review of the literature,recovery,0.23984396943548728,5
+2017,30,5-a-side football for individuals with visual impairments: A review of the literature,bp in,0.19336202158018279,5
+2017,30,5-a-side football for individuals with visual impairments: A review of the literature,odds,0.13190528094677378,5
+2017,31,Higher Rates of Lower Extremity Injury on Synthetic Turf Compared With Natural Turf Among National Football League Athletes: Epidemiologic Confirmation of a Biomechanical Hypothesis,symptom,0.2196075026729827,5
+2017,31,Higher Rates of Lower Extremity Injury on Synthetic Turf Compared With Natural Turf Among National Football League Athletes: Epidemiologic Confirmation of a Biomechanical Hypothesis,concussion,0.18211575287283024,5
+2017,31,Higher Rates of Lower Extremity Injury on Synthetic Turf Compared With Natural Turf Among National Football League Athletes: Epidemiologic Confirmation of a Biomechanical Hypothesis,biomechanical,0.16825927652576927,2
+2017,31,Higher Rates of Lower Extremity Injury on Synthetic Turf Compared With Natural Turf Among National Football League Athletes: Epidemiologic Confirmation of a Biomechanical Hypothesis,individual,0.15924151379887638,5
+2017,31,Higher Rates of Lower Extremity Injury on Synthetic Turf Compared With Natural Turf Among National Football League Athletes: Epidemiologic Confirmation of a Biomechanical Hypothesis,concussive impacts,0.1505239634010027,5
+2017,32,Slow velocity of the center of pressure and high heel pressures may increase the risk of Sever’s disease: a case-control study,drop heights,0.254826959690889,5
+2017,32,Slow velocity of the center of pressure and high heel pressures may increase the risk of Sever’s disease: a case-control study,drop,0.23952051358332907,5
+2017,32,Slow velocity of the center of pressure and high heel pressures may increase the risk of Sever’s disease: a case-control study,unstable,0.2218255028261022,5
+2017,32,Slow velocity of the center of pressure and high heel pressures may increase the risk of Sever’s disease: a case-control study,heights,0.21203704158695694,5
+2017,32,Slow velocity of the center of pressure and high heel pressures may increase the risk of Sever’s disease: a case-control study,knee,0.19816857544656913,5
+2017,33,Different visual stimuli affect muscle activation at the knee during sidestepping,cop,0.2915626392123361,5
+2017,33,Different visual stimuli affect muscle activation at the knee during sidestepping,balance,0.2697876928425877,5
+2017,33,Different visual stimuli affect muscle activation at the knee during sidestepping,non athletes,0.19382567680187426,5
+2017,33,Different visual stimuli affect muscle activation at the knee during sidestepping,displacement velocity,0.19382567680187426,1
+2017,33,Different visual stimuli affect muscle activation at the knee during sidestepping,difficulty,0.17872245497221198,5
+2017,34,Hip Alpha Angle in Asymptomatic Population,meniscectomy,0.309612343749995,5
+2017,34,Hip Alpha Angle in Asymptomatic Population,chondral,0.27091080078124563,2
+2017,34,Hip Alpha Angle in Asymptomatic Population,nfl,0.2663035438042317,5
+2017,34,Hip Alpha Angle in Asymptomatic Population,meniscus,0.2219988295336563,5
+2017,34,Hip Alpha Angle in Asymptomatic Population,meniscal,0.17839917172759986,2
+2017,35,Effect of functional resistance drills with Elastic bands on some of physical and biomechanical variables and kicking accuracy in soccer,speed,0.23986620343571455,5
+2017,35,Effect of functional resistance drills with Elastic bands on some of physical and biomechanical variables and kicking accuracy in soccer,video,0.2026333858185491,5
+2017,35,Effect of functional resistance drills with Elastic bands on some of physical and biomechanical variables and kicking accuracy in soccer,manipulations,0.17286951138642448,5
+2017,35,Effect of functional resistance drills with Elastic bands on some of physical and biomechanical variables and kicking accuracy in soccer,watching,0.17286951138642448,5
+2017,35,Effect of functional resistance drills with Elastic bands on some of physical and biomechanical variables and kicking accuracy in soccer,stimuli,0.1593723416825807,5
+2017,36,Validity of an On-Field Readaptation Program Following a Hamstring Injury in Professional Soccer,injuries,0.291974876155878,6
+2017,36,Validity of an On-Field Readaptation Program Following a Hamstring Injury in Professional Soccer,extremity injuries,0.18501473860050283,6
+2017,36,Validity of an On-Field Readaptation Program Following a Hamstring Injury in Professional Soccer,lower extremity,0.1602961973963929,4
+2017,36,Validity of an On-Field Readaptation Program Following a Hamstring Injury in Professional Soccer,extremity,0.1596192356480809,4
+2017,36,Validity of an On-Field Readaptation Program Following a Hamstring Injury in Professional Soccer,thoracic,0.15390751133963582,5
+2017,37,Effect of extrinsic factors and structural components on sport functionality of artificial turf surfaces,ex,0.4091584402940139,5
+2017,37,Effect of extrinsic factors and structural components on sport functionality of artificial turf surfaces,footballers,0.326831153828752,5
+2017,37,Effect of extrinsic factors and structural components on sport functionality of artificial turf surfaces,knee pain,0.22260639353038697,5
+2017,37,Effect of extrinsic factors and structural components on sport functionality of artificial turf surfaces,men in,0.19558370690033564,5
+2017,37,Effect of extrinsic factors and structural components on sport functionality of artificial turf surfaces,knee,0.19444693824497739,5
+2017,38,3 Influence of input data errors on the inverse dynamics analysis of human locomotion: time-series changes in lower extremity joint moment and power during running,match,0.3919937466640226,5
+2017,38,3 Influence of input data errors on the inverse dynamics analysis of human locomotion: time-series changes in lower extremity joint moment and power during running,injury rates,0.3155733349744317,6
+2017,38,3 Influence of input data errors on the inverse dynamics analysis of human locomotion: time-series changes in lower extremity joint moment and power during running,rates,0.27020654661006177,5
+2017,38,3 Influence of input data errors on the inverse dynamics analysis of human locomotion: time-series changes in lower extremity joint moment and power during running,days,0.25202572377306226,5
+2017,38,3 Influence of input data errors on the inverse dynamics analysis of human locomotion: time-series changes in lower extremity joint moment and power during running,professional football,0.16136532725578423,4
+2017,39,2 Mental wellbeing in elite male under 23 soccer players: a team case study,thesis,0.2016038788470302,5
+2017,39,2 Mental wellbeing in elite male under 23 soccer players: a team case study,injuries,0.1738448661517879,6
+2017,39,2 Mental wellbeing in elite male under 23 soccer players: a team case study,gathered,0.1713804367610918,5
+2017,39,2 Mental wellbeing in elite male under 23 soccer players: a team case study,these injuries,0.15413633917212965,6
+2017,39,2 Mental wellbeing in elite male under 23 soccer players: a team case study,professional football,0.14639229295288633,4
+2017,40,"Trunk peak torque, muscle activation pattern and sudden loading compensation in adolescent athletes with back pain",variability,0.3724024162257097,4
+2017,40,"Trunk peak torque, muscle activation pattern and sudden loading compensation in adolescent athletes with back pain",cai,0.2629712571468999,5
+2017,40,"Trunk peak torque, muscle activation pattern and sudden loading compensation in adolescent athletes with back pain",foot,0.18300893960271078,5
+2017,40,"Trunk peak torque, muscle activation pattern and sudden loading compensation in adolescent athletes with back pain",angle,0.1546345973497142,1
+2017,40,"Trunk peak torque, muscle activation pattern and sudden loading compensation in adolescent athletes with back pain",variability in,0.15301345436926408,4
+2017,41,Effectiveness of Field-Based Resistance Training Protocols on Hip Muscle Strength Among Young Elite Football Players,bess,0.22697399944496682,4
+2017,41,Effectiveness of Field-Based Resistance Training Protocols on Hip Muscle Strength Among Young Elite Football Players,season,0.19569945932881733,5
+2017,41,Effectiveness of Field-Based Resistance Training Protocols on Hip Muscle Strength Among Young Elite Football Players,postural control,0.18656266941978444,2
+2017,41,Effectiveness of Field-Based Resistance Training Protocols on Hip Muscle Strength Among Young Elite Football Players,postural,0.17159788397213782,2
+2017,41,Effectiveness of Field-Based Resistance Training Protocols on Hip Muscle Strength Among Young Elite Football Players,control testing,0.16180478823181513,5
+2017,42,Recommendations for hamstring injury prevention in elite football: translating research into practice,goalkeeper,0.1987483123531961,5
+2017,42,Recommendations for hamstring injury prevention in elite football: translating research into practice,in their,0.1781679323277491,5
+2017,42,Recommendations for hamstring injury prevention in elite football: translating research into practice,weaknesses,0.17572672973716208,4
+2017,42,Recommendations for hamstring injury prevention in elite football: translating research into practice,its,0.149444279280403,5
+2017,42,Recommendations for hamstring injury prevention in elite football: translating research into practice,on physical,0.1433892526536165,2
+2017,43,Radiographic Analysis of National Football League Players’ Fifth Metatarsal Morphology Relationship to Proximal Fifth Metatarsal Fracture Risk,movements,0.25440593320756444,5
+2017,43,Radiographic Analysis of National Football League Players’ Fifth Metatarsal Morphology Relationship to Proximal Fifth Metatarsal Fracture Risk,whole foot,0.2536764774011077,5
+2017,43,Radiographic Analysis of National Football League Players’ Fifth Metatarsal Morphology Relationship to Proximal Fifth Metatarsal Fracture Risk,shoes,0.22514879226150192,5
+2017,43,Radiographic Analysis of National Football League Players’ Fifth Metatarsal Morphology Relationship to Proximal Fifth Metatarsal Fracture Risk,penalty kick,0.1818915886271664,5
+2017,43,Radiographic Analysis of National Football League Players’ Fifth Metatarsal Morphology Relationship to Proximal Fifth Metatarsal Fracture Risk,shuffle,0.1818915886271664,5
+2017,44,Video Analysis of Reported Concussion Events in the National Football League During the 2015-2016 and 2016-2017 Seasons,kicking techniques,0.2754702291527236,5
+2017,44,Video Analysis of Reported Concussion Events in the National Football League During the 2015-2016 and 2016-2017 Seasons,kicking,0.2512741054991624,5
+2017,44,Video Analysis of Reported Concussion Events in the National Football League During the 2015-2016 and 2016-2017 Seasons,female male,0.23417311441062713,5
+2017,44,Video Analysis of Reported Concussion Events in the National Football League During the 2015-2016 and 2016-2017 Seasons,techniques,0.17203112516017416,5
+2017,44,Video Analysis of Reported Concussion Events in the National Football League During the 2015-2016 and 2016-2017 Seasons,women,0.1633638715314089,5
+2017,45,A previous hamstring injury affects kicking mechanics in soccer players,traction,0.3300900797315612,5
+2017,45,A previous hamstring injury affects kicking mechanics in soccer players,shoe,0.2700514249428536,5
+2017,45,A previous hamstring injury affects kicking mechanics in soccer players,surface,0.22252514849480515,3
+2017,45,A previous hamstring injury affects kicking mechanics in soccer players,of shoe,0.19805404783893676,5
+2017,45,A previous hamstring injury affects kicking mechanics in soccer players,performance,0.15942668455531453,5
+2017,46,Lumbar stabilisation exercises versus back endurance-resistance exercise training in athletes with chronic low back pain: protocol of a randomised controlled trial,kicking,0.26144115187138134,5
+2017,46,Lumbar stabilisation exercises versus back endurance-resistance exercise training in athletes with chronic low back pain: protocol of a randomised controlled trial,ball,0.2293615949640246,5
+2017,46,Lumbar stabilisation exercises versus back endurance-resistance exercise training in athletes with chronic low back pain: protocol of a randomised controlled trial,resultant ball,0.19107753230386487,5
+2017,46,Lumbar stabilisation exercises versus back endurance-resistance exercise training in athletes with chronic low back pain: protocol of a randomised controlled trial,soccer kicking,0.1761587310681052,5
+2017,46,Lumbar stabilisation exercises versus back endurance-resistance exercise training in athletes with chronic low back pain: protocol of a randomised controlled trial,ball impact,0.1663319679106585,5
+2017,47,"Characteristics of goalkeeping injuries: a retrospective, self-reported study in adolescent soccer players",throw,0.3933926190423974,5
+2017,47,"Characteristics of goalkeeping injuries: a retrospective, self-reported study in adolescent soccer players",throw in,0.32635690001199963,5
+2017,47,"Characteristics of goalkeeping injuries: a retrospective, self-reported study in adolescent soccer players",long,0.2689549623168334,5
+2017,47,"Characteristics of goalkeeping injuries: a retrospective, self-reported study in adolescent soccer players",long throw,0.256025314501549,5
+2017,47,"Characteristics of goalkeeping injuries: a retrospective, self-reported study in adolescent soccer players",throwers,0.17068354300103264,5
+2017,48,Functional Hamstring to Quadriceps Strength Ratio (H:Q) and Hamstrings Injury of Soccer Players: A Qualitative Analysis,studies showed,0.2442057383732049,5
+2017,48,Functional Hamstring to Quadriceps Strength Ratio (H:Q) and Hamstrings Injury of Soccer Players: A Qualitative Analysis,implies,0.2442057383732049,5
+2017,48,Functional Hamstring to Quadriceps Strength Ratio (H:Q) and Hamstrings Injury of Soccer Players: A Qualitative Analysis,standpoint,0.2442057383732049,4
+2017,48,Functional Hamstring to Quadriceps Strength Ratio (H:Q) and Hamstrings Injury of Soccer Players: A Qualitative Analysis,sprint running,0.2442057383732049,5
+2017,48,Functional Hamstring to Quadriceps Strength Ratio (H:Q) and Hamstrings Injury of Soccer Players: A Qualitative Analysis,parameter in,0.2442057383732049,5
+2017,49,Injury-Free Children and Adolescents: Towards Better Practice in Swedish Football (FIT project),velocity,0.33502803196280345,1
+2017,49,Injury-Free Children and Adolescents: Towards Better Practice in Swedish Football (FIT project),squat,0.3338586817938583,5
+2017,49,Injury-Free Children and Adolescents: Towards Better Practice in Swedish Football (FIT project),back squat,0.23422760932021622,5
+2017,49,Injury-Free Children and Adolescents: Towards Better Practice in Swedish Football (FIT project),1rm,0.20389387871769388,5
+2017,49,Injury-Free Children and Adolescents: Towards Better Practice in Swedish Football (FIT project),concentric,0.20362188849606955,5
+2017,50,Seasonal Changes in the Physical Performance of Elite Youth Female Soccer Players,accelerations,0.2116615604001882,5
+2017,50,Seasonal Changes in the Physical Performance of Elite Youth Female Soccer Players,head,0.19987727194053523,5
+2017,50,Seasonal Changes in the Physical Performance of Elite Youth Female Soccer Players,across sex,0.16827102964425075,5
+2017,50,Seasonal Changes in the Physical Performance of Elite Youth Female Soccer Players,trace,0.16827102964425075,5
+2017,50,Seasonal Changes in the Physical Performance of Elite Youth Female Soccer Players,heading,0.16763956863529525,5
+2017,51,Sprint-Specific Training in Youth: Backward Running vs. Forward Running Training on Speed and Power Measures in Adolescent Male Athletes,hie,0.2854574134308227,5
+2017,51,Sprint-Specific Training in Youth: Backward Running vs. Forward Running Training on Speed and Power Measures in Adolescent Male Athletes,head impact,0.21273685513777846,5
+2017,51,Sprint-Specific Training in Youth: Backward Running vs. Forward Running Training on Speed and Power Measures in Adolescent Male Athletes,variation in,0.19493846287327643,5
+2017,51,Sprint-Specific Training in Youth: Backward Running vs. Forward Running Training on Speed and Power Measures in Adolescent Male Athletes,age sex,0.1903679341383873,5
+2017,51,Sprint-Specific Training in Youth: Backward Running vs. Forward Running Training on Speed and Power Measures in Adolescent Male Athletes,sex,0.18152863824582607,5
+2017,52,Movement Economy in Soccer: Current Data and Limitations,heading,0.3523145778752145,5
+2017,52,Movement Economy in Soccer: Current Data and Limitations,children,0.22010807267063778,5
+2017,52,Movement Economy in Soccer: Current Data and Limitations,of heading,0.20959091526909915,5
+2017,52,Movement Economy in Soccer: Current Data and Limitations,in children,0.20325560986959668,5
+2017,52,Movement Economy in Soccer: Current Data and Limitations,heading should,0.15156071511983812,5
+2017,53,Comparison of Head Impact Exposure Between Concussed Football Athletes and Matched Controls: Evidence for a Possible Second Mechanism of Sport-Related Concussion,elite,0.21165099445079674,5
+2017,53,Comparison of Head Impact Exposure Between Concussed Football Athletes and Matched Controls: Evidence for a Possible Second Mechanism of Sport-Related Concussion,elite clubs,0.17879816124929676,5
+2017,53,Comparison of Head Impact Exposure Between Concussed Football Athletes and Matched Controls: Evidence for a Possible Second Mechanism of Sport-Related Concussion,is typically,0.1709362619476826,5
+2017,53,Comparison of Head Impact Exposure Between Concussed Football Athletes and Matched Controls: Evidence for a Possible Second Mechanism of Sport-Related Concussion,nordic hamstring,0.15564284121122302,4
+2017,53,Comparison of Head Impact Exposure Between Concussed Football Athletes and Matched Controls: Evidence for a Possible Second Mechanism of Sport-Related Concussion,share,0.15564284121122302,5
+2017,54,Cerebral Autoregulation Is Disrupted Following a Season of Contact Sports Participation,skin,0.40644093725017755,5
+2017,54,Cerebral Autoregulation Is Disrupted Following a Season of Contact Sports Participation,artificial turf,0.2864290434836927,4
+2017,54,Cerebral Autoregulation Is Disrupted Following a Season of Contact Sports Participation,artificial,0.26662334771256363,4
+2017,54,Cerebral Autoregulation Is Disrupted Following a Season of Contact Sports Participation,turf,0.2642587087605998,5
+2017,54,Cerebral Autoregulation Is Disrupted Following a Season of Contact Sports Participation,dry,0.2015228565590758,5
+2017,55,The effects of a subsequent jump on the knee abduction angle during the early landing phase,head injuries,0.3438726538379787,6
+2017,55,The effects of a subsequent jump on the knee abduction angle during the early landing phase,head,0.2741184804218005,5
+2017,55,The effects of a subsequent jump on the knee abduction angle during the early landing phase,of head,0.19724393505124407,5
+2017,55,The effects of a subsequent jump on the knee abduction angle during the early landing phase,rr,0.1894526859473819,5
+2017,55,The effects of a subsequent jump on the knee abduction angle during the early landing phase,sex,0.17537563048247362,5
+2017,56,"Passive anterior tibia translation in anterior cruciate ligament-injured, anterior cruciate ligament-reconstructed and healthy knees: a systematic review",coaches must,0.2692663755131523,5
+2017,56,"Passive anterior tibia translation in anterior cruciate ligament-injured, anterior cruciate ligament-reconstructed and healthy knees: a systematic review",injury,0.18829319505344763,6
+2017,56,"Passive anterior tibia translation in anterior cruciate ligament-injured, anterior cruciate ligament-reconstructed and healthy knees: a systematic review",must,0.18726580713385654,5
+2017,56,"Passive anterior tibia translation in anterior cruciate ligament-injured, anterior cruciate ligament-reconstructed and healthy knees: a systematic review",to develop,0.17589630756410332,1
+2017,56,"Passive anterior tibia translation in anterior cruciate ligament-injured, anterior cruciate ligament-reconstructed and healthy knees: a systematic review",develop,0.16164494321000014,1
+2017,57,Modified exorotation graft tension for tibial fixation in anterior cruciate ligament reconstruction: a randomized controlled trial,pra,0.31975365945502493,5
+2017,57,Modified exorotation graft tension for tibial fixation in anterior cruciate ligament reconstruction: a randomized controlled trial,pla,0.30834642573643284,5
+2017,57,Modified exorotation graft tension for tibial fixation in anterior cruciate ligament reconstruction: a randomized controlled trial,variance in,0.2392208297146899,5
+2017,57,Modified exorotation graft tension for tibial fixation in anterior cruciate ligament reconstruction: a randomized controlled trial,head,0.19069515878843266,5
+2017,57,Modified exorotation graft tension for tibial fixation in anterior cruciate ligament reconstruction: a randomized controlled trial,neck,0.18998257357369736,5
+2017,58,Comparing Anterior Cruciate Ligament Injury Risk Variables Between Unanticipated Cutting and Decelerating Tasks,cp,0.40798609644499007,5
+2017,58,Comparing Anterior Cruciate Ligament Injury Risk Variables Between Unanticipated Cutting and Decelerating Tasks,high intensity,0.20907216809619386,5
+2017,58,Comparing Anterior Cruciate Ligament Injury Risk Variables Between Unanticipated Cutting and Decelerating Tasks,ie,0.17410970815755983,5
+2017,58,Comparing Anterior Cruciate Ligament Injury Risk Variables Between Unanticipated Cutting and Decelerating Tasks,covered,0.17410970815755983,5
+2017,58,Comparing Anterior Cruciate Ligament Injury Risk Variables Between Unanticipated Cutting and Decelerating Tasks,intensity,0.17079020048792157,5
+2017,59,The Efficacy of Lower-Limb Screening Tests in Predicting PlayerLoad Within a Professional Soccer Academy,ipp,0.47383105516370144,5
+2017,59,The Efficacy of Lower-Limb Screening Tests in Predicting PlayerLoad Within a Professional Soccer Academy,multimodal,0.2105915800727562,5
+2017,59,The Efficacy of Lower-Limb Screening Tests in Predicting PlayerLoad Within a Professional Soccer Academy,neuromuscular performance,0.2030787110186479,5
+2017,59,The Efficacy of Lower-Limb Screening Tests in Predicting PlayerLoad Within a Professional Soccer Academy,ci,0.1506968510937565,5
+2017,59,The Efficacy of Lower-Limb Screening Tests in Predicting PlayerLoad Within a Professional Soccer Academy,neuromuscular,0.1440025492931533,5
+2017,60,Analysis of the biomechanical characteristics of the knee joint with a meniscus injury,vibration,0.37812926251214724,5
+2017,60,Analysis of the biomechanical characteristics of the knee joint with a meniscus injury,plyometric,0.3744443485964562,5
+2017,60,Analysis of the biomechanical characteristics of the knee joint with a meniscus injury,training,0.30236801869405394,5
+2017,60,Analysis of the biomechanical characteristics of the knee joint with a meniscus injury,combined,0.21360126272890556,5
+2017,60,Analysis of the biomechanical characteristics of the knee joint with a meniscus injury,of plyometric,0.11476619431498547,5
+2017,61,A Phase Variable Approach to Volitional Control of Powered Knee-Ankle Prostheses,women,0.39739059187662934,5
+2017,61,A Phase Variable Approach to Volitional Control of Powered Knee-Ankle Prostheses,rtd,0.3350473895519323,5
+2017,61,A Phase Variable Approach to Volitional Control of Powered Knee-Ankle Prostheses,men,0.292931876585835,5
+2017,61,A Phase Variable Approach to Volitional Control of Powered Knee-Ankle Prostheses,ms,0.19031614662787238,5
+2017,61,A Phase Variable Approach to Volitional Control of Powered Knee-Ankle Prostheses,vastus lateralis,0.1749941742775208,5
+2017,62,Foot and Ankle Injuries in Soccer,overuse,0.34792809344009656,5
+2017,62,Foot and Ankle Injuries in Soccer,overuse injuries,0.26876922380241025,6
+2017,62,Foot and Ankle Injuries in Soccer,risk rr,0.23071994418471367,5
+2017,62,Foot and Ankle Injuries in Soccer,ci,0.2272908531570733,5
+2017,62,Foot and Ankle Injuries in Soccer,was associated,0.2127350482228539,5
+2017,63,Concussion with primary impact to the chest and the potential role of neck tension,plan,0.2848722488181535,5
+2017,63,Concussion with primary impact to the chest and the potential role of neck tension,u12,0.22031360685273152,5
+2017,63,Concussion with primary impact to the chest and the potential role of neck tension,cods,0.22031360685273152,5
+2017,63,Concussion with primary impact to the chest and the potential role of neck tension,best,0.16152778033756238,5
+2017,63,Concussion with primary impact to the chest and the potential role of neck tension,groups,0.16136741893476955,5
+2017,64,Injury Prevention Programs Based on Flywheel vs. Body Weight Resistance in Recreational Athletes,kick,0.3695917611917649,5
+2017,64,Injury Prevention Programs Based on Flywheel vs. Body Weight Resistance in Recreational Athletes,free kick,0.2462647627060996,5
+2017,64,Injury Prevention Programs Based on Flywheel vs. Body Weight Resistance in Recreational Athletes,kicking,0.2021705297873353,5
+2017,64,Injury Prevention Programs Based on Flywheel vs. Body Weight Resistance in Recreational Athletes,tests,0.19135316774009598,5
+2017,64,Injury Prevention Programs Based on Flywheel vs. Body Weight Resistance in Recreational Athletes,kick kicking,0.1846985720295747,5
+2017,65,Reducing the Energy Cost of Human Running Using an Unpowered Exoskeleton,at months,0.3338628404669347,5
+2017,65,Reducing the Energy Cost of Human Running Using an Unpowered Exoskeleton,after aclr,0.31744303995367207,5
+2017,65,Reducing the Energy Cost of Human Running Using an Unpowered Exoskeleton,aclr,0.2804538410231446,6
+2017,65,Reducing the Energy Cost of Human Running Using an Unpowered Exoskeleton,months after,0.2616005608242944,5
+2017,65,Reducing the Energy Cost of Human Running Using an Unpowered Exoskeleton,months,0.2095204793228722,5
+2017,66,Method of complex development of psychomotor qualities in precisely-targeted sports,rtp,0.370142347288758,5
+2017,66,Method of complex development of psychomotor qualities in precisely-targeted sports,nfl,0.30695900734063797,5
+2017,66,Method of complex development of psychomotor qualities in precisely-targeted sports,arthroscopic,0.2730401878147207,5
+2017,66,Method of complex development of psychomotor qualities in precisely-targeted sports,fai,0.2590996431021306,5
+2017,66,Method of complex development of psychomotor qualities in precisely-targeted sports,surgery,0.20654204866921844,3
+2017,67,Enhanced Body Composition and Physical Fitness in Prepubescent Soccer Players,drills,0.3917910895548603,5
+2017,67,Enhanced Body Composition and Physical Fitness in Prepubescent Soccer Players,head,0.3358949548648852,5
+2017,67,Enhanced Body Composition and Physical Fitness in Prepubescent Soccer Players,tackling,0.21463164723439287,5
+2017,67,Enhanced Body Composition and Physical Fitness in Prepubescent Soccer Players,head impact,0.2014753795378924,5
+2017,67,Enhanced Body Composition and Physical Fitness in Prepubescent Soccer Players,impact,0.18508143182274342,5
+2017,68,How sprinters accelerate beyond the velocity plateau of soccer players: Waveform analysis of ground reaction forces,helmet,0.47588986668100985,5
+2017,68,How sprinters accelerate beyond the velocity plateau of soccer players: Waveform analysis of ground reaction forces,fit,0.32685132388375565,5
+2017,68,How sprinters accelerate beyond the velocity plateau of soccer players: Waveform analysis of ground reaction forces,neck,0.2595762909169145,5
+2017,68,How sprinters accelerate beyond the velocity plateau of soccer players: Waveform analysis of ground reaction forces,headform,0.2121585092121982,5
+2017,68,How sprinters accelerate beyond the velocity plateau of soccer players: Waveform analysis of ground reaction forces,retention,0.1553881793514807,5
+2017,69,Using wearable sensors to classify subject-specific running biomechanical gait patterns based on changes in environmental weather conditions,risk,0.24521411179793853,5
+2017,69,Using wearable sensors to classify subject-specific running biomechanical gait patterns based on changes in environmental weather conditions,injury risk,0.20509964866645636,6
+2017,69,Using wearable sensors to classify subject-specific running biomechanical gait patterns based on changes in environmental weather conditions,injury,0.17308606776784588,6
+2017,69,Using wearable sensors to classify subject-specific running biomechanical gait patterns based on changes in environmental weather conditions,we analyzed,0.16159837026265417,5
+2017,69,Using wearable sensors to classify subject-specific running biomechanical gait patterns based on changes in environmental weather conditions,in relation,0.14403367329229022,5
+2017,70,Outcome after Combined Lateral Extra-articular Tenodesis and Anterior Cruciate Ligament Revision in Professional Soccer Players,running ball,0.32894328746455376,5
+2017,70,Outcome after Combined Lateral Extra-articular Tenodesis and Anterior Cruciate Ligament Revision in Professional Soccer Players,running,0.2506599553190438,5
+2017,70,Outcome after Combined Lateral Extra-articular Tenodesis and Anterior Cruciate Ligament Revision in Professional Soccer Players,ball,0.23690997938658317,5
+2017,70,Outcome after Combined Lateral Extra-articular Tenodesis and Anterior Cruciate Ligament Revision in Professional Soccer Players,soccer specific,0.1699006470038521,5
+2017,70,Outcome after Combined Lateral Extra-articular Tenodesis and Anterior Cruciate Ligament Revision in Professional Soccer Players,specific activity,0.16447164373227688,5
+2017,71,Efficacy of Injury Prevention Training Is Greater for High-Risk vs Low-Risk Elite Female Youth Soccer Players,h3,0.36421511789233935,5
+2017,71,Efficacy of Injury Prevention Training Is Greater for High-Risk vs Low-Risk Elite Female Youth Soccer Players,pre post,0.31374562939431583,5
+2017,71,Efficacy of Injury Prevention Training Is Greater for High-Risk vs Low-Risk Elite Female Youth Soccer Players,sd,0.2896188268467226,5
+2017,71,Efficacy of Injury Prevention Training Is Greater for High-Risk vs Low-Risk Elite Female Youth Soccer Players,ankle,0.2622586414941322,1
+2017,71,Efficacy of Injury Prevention Training Is Greater for High-Risk vs Low-Risk Elite Female Youth Soccer Players,cai,0.25619057920217025,5
+2017,72,Preliminary Investigation on the Effect of Cognition on Jump-Landing Performance Using a Clinically Relevant Setup,h3,0.43915663888632156,5
+2017,72,Preliminary Investigation on the Effect of Cognition on Jump-Landing Performance Using a Clinically Relevant Setup,medial,0.17241033629042293,4
+2017,72,Preliminary Investigation on the Effect of Cognition on Jump-Landing Performance Using a Clinically Relevant Setup,tarsal,0.17231954962035778,2
+2017,72,Preliminary Investigation on the Effect of Cognition on Jump-Landing Performance Using a Clinically Relevant Setup,patient,0.16313708495712012,5
+2017,72,Preliminary Investigation on the Effect of Cognition on Jump-Landing Performance Using a Clinically Relevant Setup,ankle,0.16262816133113706,1
+2017,73,Comparative Effects of Tensioning and Sliding Neural Mobilization on Static Postural Control and Lower Limb Hop Testing in Football Players,sensory,0.2824322520515058,5
+2017,73,Comparative Effects of Tensioning and Sliding Neural Mobilization on Static Postural Control and Lower Limb Hop Testing in Football Players,dancers,0.22060502971376705,5
+2017,73,Comparative Effects of Tensioning and Sliding Neural Mobilization on Static Postural Control and Lower Limb Hop Testing in Football Players,were more,0.1739877289283284,5
+2017,73,Comparative Effects of Tensioning and Sliding Neural Mobilization on Static Postural Control and Lower Limb Hop Testing in Football Players,of pressure,0.1621206147563719,5
+2017,73,Comparative Effects of Tensioning and Sliding Neural Mobilization on Static Postural Control and Lower Limb Hop Testing in Football Players,postural,0.15597130635490736,2
+2017,74,Anterior Cruciate ligament injuries of the knee:,simple,0.44823476907881293,5
+2017,74,Anterior Cruciate ligament injuries of the knee:,placing,0.322254643002059,5
+2017,74,Anterior Cruciate ligament injuries of the knee:,rules,0.3120019077250683,5
+2017,74,Anterior Cruciate ligament injuries of the knee:,upper limb,0.20538989769308402,5
+2017,74,Anterior Cruciate ligament injuries of the knee:,efficiency of,0.1870139598748105,5
+2017,75,Physical Characteristics of Elite Youth Female Soccer Players Characterized by Maturity Status,platform,0.2810895163733744,5
+2017,75,Physical Characteristics of Elite Youth Female Soccer Players Characterized by Maturity Status,validation,0.19974148568981648,5
+2017,75,Physical Characteristics of Elite Youth Female Soccer Players Characterized by Maturity Status,platforms,0.19974148568981648,5
+2017,75,Physical Characteristics of Elite Youth Female Soccer Players Characterized by Maturity Status,force,0.17450551242806459,5
+2017,75,Physical Characteristics of Elite Youth Female Soccer Players Characterized by Maturity Status,cost,0.17232582121832335,5
+2017,76,Small sided games in soccer – a systematic review,st,0.27531960596217325,4
+2017,76,Small sided games in soccer – a systematic review,sprint,0.2719369974917555,5
+2017,76,Small sided games in soccer – a systematic review,maximum speed,0.25068715803684954,5
+2017,76,Small sided games in soccer – a systematic review,acceleration sprint,0.21598681903865427,5
+2017,76,Small sided games in soccer – a systematic review,speed sprint,0.19912317011075514,5
+2017,77,Kinematic and electromyographic analysis of the Askling L‐Protocol for hamstring training,training,0.2747539956054675,5
+2017,77,Kinematic and electromyographic analysis of the Askling L‐Protocol for hamstring training,landing,0.21998099209181268,5
+2017,77,Kinematic and electromyographic analysis of the Askling L‐Protocol for hamstring training,knee,0.21146619164902714,5
+2017,77,Kinematic and electromyographic analysis of the Askling L‐Protocol for hamstring training,knee valgus,0.18631291129292438,5
+2017,77,Kinematic and electromyographic analysis of the Askling L‐Protocol for hamstring training,valgus,0.17018185154049148,5
+2017,78,Vastus and Patellar Protection with Range of motion Pad – Advanced Personal Protective Equipment for the Lower Body,organization,0.27214634892603673,5
+2017,78,Vastus and Patellar Protection with Range of motion Pad – Advanced Personal Protective Equipment for the Lower Body,factors,0.26026226479155806,5
+2017,78,Vastus and Patellar Protection with Range of motion Pad – Advanced Personal Protective Equipment for the Lower Body,significantly affected,0.23280859903100504,5
+2017,78,Vastus and Patellar Protection with Range of motion Pad – Advanced Personal Protective Equipment for the Lower Body,tournament,0.2245031363026943,5
+2017,78,Vastus and Patellar Protection with Range of motion Pad – Advanced Personal Protective Equipment for the Lower Body,success of,0.21771707914082936,4
+2017,79,SOME ASPECTS OF RUNNING EFFICIENCY ASSESSMENT,prevention training,0.24366802538520344,5
+2017,79,SOME ASPECTS OF RUNNING EFFICIENCY ASSESSMENT,acl injury,0.24301660193176092,6
+2017,79,SOME ASPECTS OF RUNNING EFFICIENCY ASSESSMENT,acl,0.2135239423065189,6
+2017,79,SOME ASPECTS OF RUNNING EFFICIENCY ASSESSMENT,program,0.2117030801621754,5
+2017,79,SOME ASPECTS OF RUNNING EFFICIENCY ASSESSMENT,hip,0.17764455520652692,5
+2017,80,Biomechanical Simulation of Different Postures Obtained from Three Sport Branches,illness,0.367916935351505,4
+2017,80,Biomechanical Simulation of Different Postures Obtained from Three Sport Branches,aerobic fitness,0.22994808459469063,5
+2017,80,Biomechanical Simulation of Different Postures Obtained from Three Sport Branches,aerobic,0.22067139704185743,5
+2017,80,Biomechanical Simulation of Different Postures Obtained from Three Sport Branches,vo2max,0.21504199389695655,5
+2017,80,Biomechanical Simulation of Different Postures Obtained from Three Sport Branches,injury illness,0.19241929940371352,6
+2017,81,"The influence of differences in neurocognitive function on lower limb kinematics, kinetics, and muscle activity during an unanticipated cutting motion",prognostic,0.24168604548804418,5
+2017,81,"The influence of differences in neurocognitive function on lower limb kinematics, kinetics, and muscle activity during an unanticipated cutting motion",pfs,0.19661574344396693,5
+2017,81,"The influence of differences in neurocognitive function on lower limb kinematics, kinetics, and muscle activity during an unanticipated cutting motion",load monitoring,0.19661574344396693,5
+2017,81,"The influence of differences in neurocognitive function on lower limb kinematics, kinetics, and muscle activity during an unanticipated cutting motion",injury outcomes,0.19661574344396693,6
+2017,81,"The influence of differences in neurocognitive function on lower limb kinematics, kinetics, and muscle activity during an unanticipated cutting motion",spinal,0.17578545034826015,2
+2017,82,Effects of an Intervention Program on Lower Extremity Biomechanics in Stop-Jump and Side-Cutting Tasks,h3,0.3985729082856089,5
+2017,82,Effects of an Intervention Program on Lower Extremity Biomechanics in Stop-Jump and Side-Cutting Tasks,intervention,0.2110231567356426,5
+2017,82,Effects of an Intervention Program on Lower Extremity Biomechanics in Stop-Jump and Side-Cutting Tasks,mentored,0.20852667124521834,5
+2017,82,Effects of an Intervention Program on Lower Extremity Biomechanics in Stop-Jump and Side-Cutting Tasks,mentored players,0.15639500343391377,5
+2017,82,Effects of an Intervention Program on Lower Extremity Biomechanics in Stop-Jump and Side-Cutting Tasks,mentoring,0.14951818904341976,5
+2017,83,Strength-Endurance Training Reduces the Hamstrings Strength Decline Following Simulated Football Competition in Female Players,cycling,0.4973800900217873,5
+2017,83,Strength-Endurance Training Reduces the Hamstrings Strength Decline Following Simulated Football Competition in Female Players,leg,0.2226051478921856,5
+2017,83,Strength-Endurance Training Reduces the Hamstrings Strength Decline Following Simulated Football Competition in Female Players,quadriceps,0.20117827255079643,5
+2017,83,Strength-Endurance Training Reduces the Hamstrings Strength Decline Following Simulated Football Competition in Female Players,single leg,0.19117190749479118,5
+2017,83,Strength-Endurance Training Reduces the Hamstrings Strength Decline Following Simulated Football Competition in Female Players,double leg,0.17611291959093944,5
+2017,84,Inter-individual Variability in Responses to 7 Weeks of Plyometric Jump Training in Male Youth Soccer Players,angular,0.3199531552854253,1
+2017,84,Inter-individual Variability in Responses to 7 Weeks of Plyometric Jump Training in Male Youth Soccer Players,angular velocity,0.2529006444323716,1
+2017,84,Inter-individual Variability in Responses to 7 Weeks of Plyometric Jump Training in Male Youth Soccer Players,ast,0.2366769411567003,5
+2017,84,Inter-individual Variability in Responses to 7 Weeks of Plyometric Jump Training in Male Youth Soccer Players,angle,0.2138442770415415,1
+2017,84,Inter-individual Variability in Responses to 7 Weeks of Plyometric Jump Training in Male Youth Soccer Players,pt,0.2060260089556998,5
+2017,85,Changes in biomechanical knee injury risk factors across two collegiate soccer seasons using the 11+ prevention program,kinect,0.37033967421466196,5
+2017,85,Changes in biomechanical knee injury risk factors across two collegiate soccer seasons using the 11+ prevention program,kinect v2,0.3389511712065668,5
+2017,85,Changes in biomechanical knee injury risk factors across two collegiate soccer seasons using the 11+ prevention program,v2,0.3389511712065668,5
+2017,85,Changes in biomechanical knee injury risk factors across two collegiate soccer seasons using the 11+ prevention program,ic,0.31248680833308606,5
+2017,85,Changes in biomechanical knee injury risk factors across two collegiate soccer seasons using the 11+ prevention program,at ic,0.242107979433262,5
+2017,86,Behaviors of shooter and goalkeeper interact to determine the outcome of soccer penalties,artificial,0.3623145313424065,4
+2017,86,Behaviors of shooter and goalkeeper interact to determine the outcome of soccer penalties,grass,0.31874764560536156,4
+2017,86,Behaviors of shooter and goalkeeper interact to determine the outcome of soccer penalties,artificial grass,0.23823347219757587,4
+2017,86,Behaviors of shooter and goalkeeper interact to determine the outcome of soccer penalties,of artificial,0.19092290428571426,4
+2017,86,Behaviors of shooter and goalkeeper interact to determine the outcome of soccer penalties,on artificial,0.18483999262293963,4
+2017,87,Electromyographic analysis of hip adductor muscles in soccer instep and side-foot kicking,neuropsychological,0.39060717113202714,2
+2017,87,Electromyographic analysis of hip adductor muscles in soccer instep and side-foot kicking,heading,0.2615814750184077,5
+2017,87,Electromyographic analysis of hip adductor muscles in soccer instep and side-foot kicking,high levels,0.23474937142365482,1
+2017,87,Electromyographic analysis of hip adductor muscles in soccer instep and side-foot kicking,function,0.21452459555376066,2
+2017,87,Electromyographic analysis of hip adductor muscles in soccer instep and side-foot kicking,levels of,0.16884339260760597,1
+2017,88,Scaling isometric mid-thigh pull maximum strength in division I Athletes: are we meeting the assumptions?,pain,0.3496706957051729,5
+2017,88,Scaling isometric mid-thigh pull maximum strength in division I Athletes: are we meeting the assumptions?,elite athletes,0.30678709132741644,5
+2017,88,Scaling isometric mid-thigh pull maximum strength in division I Athletes: are we meeting the assumptions?,pain management,0.2643213497525457,5
+2017,88,Scaling isometric mid-thigh pull maximum strength in division I Athletes: are we meeting the assumptions?,management,0.23211160379549756,5
+2017,88,Scaling isometric mid-thigh pull maximum strength in division I Athletes: are we meeting the assumptions?,to pain,0.1762142331683638,5
+2017,89,The Effect of Angle and Velocity on Change of Direction Biomechanics: An Angle-Velocity Trade-Off,per,0.23766558566192691,5
+2017,89,The Effect of Angle and Velocity on Change of Direction Biomechanics: An Angle-Velocity Trade-Off,afl,0.2172286682559526,5
+2017,89,The Effect of Angle and Velocity on Change of Direction Biomechanics: An Angle-Velocity Trade-Off,australian,0.2113543246576382,5
+2017,89,The Effect of Angle and Velocity on Change of Direction Biomechanics: An Angle-Velocity Trade-Off,per season,0.2094790206259692,5
+2017,89,The Effect of Angle and Velocity on Change of Direction Biomechanics: An Angle-Velocity Trade-Off,injuries,0.1763402617765731,6
+2017,90,Age-Dependent Patellofemoral Pain: Hip and Knee Risk Landing Profiles in Prepubescent and Postpubescent Female Athletes,labral,0.3404692178615649,2
+2017,90,Age-Dependent Patellofemoral Pain: Hip and Knee Risk Landing Profiles in Prepubescent and Postpubescent Female Athletes,labral tears,0.3052529776989495,2
+2017,90,Age-Dependent Patellofemoral Pain: Hip and Knee Risk Landing Profiles in Prepubescent and Postpubescent Female Athletes,fai,0.2814196758658888,5
+2017,90,Age-Dependent Patellofemoral Pain: Hip and Knee Risk Landing Profiles in Prepubescent and Postpubescent Female Athletes,tears,0.2806689979215022,5
+2017,90,Age-Dependent Patellofemoral Pain: Hip and Knee Risk Landing Profiles in Prepubescent and Postpubescent Female Athletes,nonoperative,0.23451639655490736,5
+2017,91,Pathogenic Factors Associated With Osgood-Schlatter Disease in Adolescent Male Soccer Players: A Prospective Cohort Study,assessments,0.37914194613531266,4
+2017,91,Pathogenic Factors Associated With Osgood-Schlatter Disease in Adolescent Male Soccer Players: A Prospective Cohort Study,emg,0.34746893405638957,5
+2017,91,Pathogenic Factors Associated With Osgood-Schlatter Disease in Adolescent Male Soccer Players: A Prospective Cohort Study,kinematic,0.2665524033006983,5
+2017,91,Pathogenic Factors Associated With Osgood-Schlatter Disease in Adolescent Male Soccer Players: A Prospective Cohort Study,movement assessments,0.23392558827163815,4
+2017,91,Pathogenic Factors Associated With Osgood-Schlatter Disease in Adolescent Male Soccer Players: A Prospective Cohort Study,movement,0.18305768152368007,5
+2017,92,The Effects of a Compression Garment on Lower Body Kinematics and Kinetics During a Drop Vertical Jump in Female Collegiate Athletes,energy,0.44396940160637133,5
+2017,92,The Effects of a Compression Garment on Lower Body Kinematics and Kinetics During a Drop Vertical Jump in Female Collegiate Athletes,food,0.21694057129017397,5
+2017,92,The Effects of a Compression Garment on Lower Body Kinematics and Kinetics During a Drop Vertical Jump in Female Collegiate Athletes,serum,0.19395698103860165,5
+2017,92,The Effects of a Compression Garment on Lower Body Kinematics and Kinetics During a Drop Vertical Jump in Female Collegiate Athletes,energy expenditure,0.1888456047515497,5
+2017,92,The Effects of a Compression Garment on Lower Body Kinematics and Kinetics During a Drop Vertical Jump in Female Collegiate Athletes,expenditure,0.1888456047515497,5
+2017,93,Stability in post-seasonal hematological profiles in response to high-competitive match-play loads within elite top-level European soccer players: implications from a pilot study,bridge,0.31339707536018235,5
+2017,93,Stability in post-seasonal hematological profiles in response to high-competitive match-play loads within elite top-level European soccer players: implications from a pilot study,hip,0.25862275616815245,5
+2017,93,Stability in post-seasonal hematological profiles in response to high-competitive match-play loads within elite top-level European soccer players: implications from a pilot study,gluteal,0.23368941643740565,2
+2017,93,Stability in post-seasonal hematological profiles in response to high-competitive match-play loads within elite top-level European soccer players: implications from a pilot study,muscle groups,0.2154435980374377,5
+2017,93,Stability in post-seasonal hematological profiles in response to high-competitive match-play loads within elite top-level European soccer players: implications from a pilot study,single leg,0.1987378156253285,5
+2017,94,Case report: ischial stress fracture non-union in a college football player,reliability,0.32825710796268115,4
+2017,94,Case report: ischial stress fracture non-union in a college football player,landing,0.27187475792284765,5
+2017,94,Case report: ischial stress fracture non-union in a college football player,instruction,0.25350097514059927,5
+2017,94,Case report: ischial stress fracture non-union in a college football player,reliability of,0.22036384246674476,4
+2017,94,Case report: ischial stress fracture non-union in a college football player,unipodal,0.19715940670391519,5
+2017,95,Novel Interactive Visual Task for Robot-Assisted Gait Training for Stroke Rehabilitation,metabolic power,0.3678570226594794,5
+2017,95,Novel Interactive Visual Task for Robot-Assisted Gait Training for Stroke Rehabilitation,metabolic,0.32558416637968474,5
+2017,95,Novel Interactive Visual Task for Robot-Assisted Gait Training for Stroke Rehabilitation,cv,0.2992579974786157,5
+2017,95,Novel Interactive Visual Task for Robot-Assisted Gait Training for Stroke Rehabilitation,power data,0.2493816645655131,5
+2017,95,Novel Interactive Visual Task for Robot-Assisted Gait Training for Stroke Rehabilitation,power,0.2368099703256687,5
+2017,96,MRI-defined White Matter Microstructural Alteration Associated with Soccer Heading Is More Extensive in Women than Men,apt,0.4726486946401571,5
+2017,96,MRI-defined White Matter Microstructural Alteration Associated with Soccer Heading Is More Extensive in Women than Men,pain,0.19140824270288512,5
+2017,96,MRI-defined White Matter Microstructural Alteration Associated with Soccer Heading Is More Extensive in Women than Men,treatment,0.15829347569659535,5
+2017,96,MRI-defined White Matter Microstructural Alteration Associated with Soccer Heading Is More Extensive in Women than Men,therapeutic,0.15487019096832244,5
+2017,96,MRI-defined White Matter Microstructural Alteration Associated with Soccer Heading Is More Extensive in Women than Men,program,0.14248310573261694,5
+2017,97,Ankle perturbation generates bilateral alteration of knee muscle onset times after unilateral anterior cruciate ligament reconstruction,vm,0.2964584429560711,0
+2017,97,Ankle perturbation generates bilateral alteration of knee muscle onset times after unilateral anterior cruciate ligament reconstruction,bf,0.25201488049679516,5
+2017,97,Ankle perturbation generates bilateral alteration of knee muscle onset times after unilateral anterior cruciate ligament reconstruction,of pre,0.22234383221705337,5
+2017,97,Ankle perturbation generates bilateral alteration of knee muscle onset times after unilateral anterior cruciate ligament reconstruction,positional,0.18901116037259638,2
+2017,97,Ankle perturbation generates bilateral alteration of knee muscle onset times after unilateral anterior cruciate ligament reconstruction,pre season,0.17818877341337486,5
+2017,98,The Effect of Balance and Stability Workouts on the Development of Static and Dynamic Balance in 10-12-Year-Old Soccer Players,intensive,0.25516983707117014,5
+2017,98,The Effect of Balance and Stability Workouts on the Development of Static and Dynamic Balance in 10-12-Year-Old Soccer Players,cases,0.25002929991781436,5
+2017,98,The Effect of Balance and Stability Workouts on the Development of Static and Dynamic Balance in 10-12-Year-Old Soccer Players,appearance,0.17793726993036224,5
+2017,98,The Effect of Balance and Stability Workouts on the Development of Static and Dynamic Balance in 10-12-Year-Old Soccer Players,intensive soccer,0.17793726993036224,5
+2017,98,The Effect of Balance and Stability Workouts on the Development of Static and Dynamic Balance in 10-12-Year-Old Soccer Players,soccer playing,0.16404442376201608,5
+2017,99,The Effect of Box Height during Drop Landing on Risk Factors of Anterior Cruciate Ligament Injury in Female Players,former,0.20782968149009223,5
+2017,99,The Effect of Box Height during Drop Landing on Risk Factors of Anterior Cruciate Ligament Injury in Female Players,exposure,0.18676527148802052,5
+2017,99,The Effect of Box Height during Drop Landing on Risk Factors of Anterior Cruciate Ligament Injury in Female Players,impacts,0.1761014572283778,5
+2017,99,The Effect of Box Height during Drop Landing on Risk Factors of Anterior Cruciate Ligament Injury in Female Players,of exposure,0.1565424361250174,5
+2017,99,The Effect of Box Height during Drop Landing on Risk Factors of Anterior Cruciate Ligament Injury in Female Players,head impacts,0.1519623523932124,5
+2017,100,Mid-flight lateral trunk bending increased ipsilateral leg loading during landing: a center of mass analysis,neck,0.3905747315145093,5
+2017,100,Mid-flight lateral trunk bending increased ipsilateral leg loading during landing: a center of mass analysis,response,0.21779445593505975,5
+2017,100,Mid-flight lateral trunk bending increased ipsilateral leg loading during landing: a center of mass analysis,brain injury,0.21028141623460236,6
+2017,100,Mid-flight lateral trunk bending increased ipsilateral leg loading during landing: a center of mass analysis,head,0.19601984814679993,5
+2017,100,Mid-flight lateral trunk bending increased ipsilateral leg loading during landing: a center of mass analysis,brain,0.1729805933967616,5
+2017,101,Anticipating the Direction of Soccer Penalty Shots Depends on the Speed and Technique of the Kick,scat,0.29750020732370325,5
+2017,101,Anticipating the Direction of Soccer Penalty Shots Depends on the Speed and Technique of the Kick,concussion,0.19913527761167793,5
+2017,101,Anticipating the Direction of Soccer Penalty Shots Depends on the Speed and Technique of the Kick,baseline,0.1579736264947621,5
+2017,101,Anticipating the Direction of Soccer Penalty Shots Depends on the Speed and Technique of the Kick,event,0.1405928721961901,5
+2017,101,Anticipating the Direction of Soccer Penalty Shots Depends on the Speed and Technique of the Kick,on scat,0.1290781447632571,5
+2017,102,Sports injuries in 15-17 year-old male athlete students participating on school teams,ankle,0.31787880035126886,1
+2017,102,Sports injuries in 15-17 year-old male athlete students participating on school teams,ankle sprains,0.29241678247515274,1
+2017,102,Sports injuries in 15-17 year-old male athlete students participating on school teams,sprains,0.2790143655329709,5
+2017,102,Sports injuries in 15-17 year-old male athlete students participating on school teams,lateral ankle,0.26993277284545747,1
+2017,102,Sports injuries in 15-17 year-old male athlete students participating on school teams,lateral,0.17927431146523493,2
+2017,103,Development of a Footwear Sizing System in the National Football League,head,0.4210390839251255,5
+2017,103,Development of a Footwear Sizing System in the National Football League,head impacts,0.24673022270330525,5
+2017,103,Development of a Footwear Sizing System in the National Football League,impacts,0.2450769703871262,5
+2017,103,Development of a Footwear Sizing System in the National Football League,top,0.2075300980154631,5
+2017,103,Development of a Footwear Sizing System in the National Football League,top of,0.20570421646744175,5
+2017,104,Partial Anterior Cruciate Ligament Ruptures: Advantages by Intraligament Autologous Conditioned Plasma Injection and Healing Response Technique—Midterm Outcome Evaluation,jump,0.33164834965520124,5
+2017,104,Partial Anterior Cruciate Ligament Ruptures: Advantages by Intraligament Autologous Conditioned Plasma Injection and Healing Response Technique—Midterm Outcome Evaluation,ms before,0.28368396432453596,5
+2017,104,Partial Anterior Cruciate Ligament Ruptures: Advantages by Intraligament Autologous Conditioned Plasma Injection and Healing Response Technique—Midterm Outcome Evaluation,landing,0.2804907799191596,5
+2017,104,Partial Anterior Cruciate Ligament Ruptures: Advantages by Intraligament Autologous Conditioned Plasma Injection and Healing Response Technique—Midterm Outcome Evaluation,ms,0.2517817284676051,5
+2017,104,Partial Anterior Cruciate Ligament Ruptures: Advantages by Intraligament Autologous Conditioned Plasma Injection and Healing Response Technique—Midterm Outcome Evaluation,before,0.20803108242918988,5
+2017,105,PHYSICAL TREATMENT OF SPORTS KNEE INJURIES,tts,0.49595676161302593,5
+2017,105,PHYSICAL TREATMENT OF SPORTS KNEE INJURIES,stability,0.2551978577647885,4
+2017,105,PHYSICAL TREATMENT OF SPORTS KNEE INJURIES,indexes,0.18502615852106058,5
+2017,105,PHYSICAL TREATMENT OF SPORTS KNEE INJURIES,ap,0.1734386181054304,5
+2017,105,PHYSICAL TREATMENT OF SPORTS KNEE INJURIES,force plate,0.15091987630646028,5
+2017,106,Validation of electronic performance and tracking systems EPTS under field conditions,learned,0.2451845439249913,5
+2017,106,Validation of electronic performance and tracking systems EPTS under field conditions,level,0.23078098488153906,1
+2017,106,Validation of electronic performance and tracking systems EPTS under field conditions,low level,0.2292907692241914,1
+2017,106,Validation of electronic performance and tracking systems EPTS under field conditions,high level,0.1908433692985642,1
+2017,106,Validation of electronic performance and tracking systems EPTS under field conditions,are,0.1730306696152198,5
+2017,107,Kinematic and kinetic analysis of the goalkeeper’s diving save in football,anthropometric,0.2147821474268968,5
+2017,107,Kinematic and kinetic analysis of the goalkeeper’s diving save in football,century,0.20380410858772643,5
+2017,107,Kinematic and kinetic analysis of the goalkeeper’s diving save in football,anthropometric measurements,0.19484267762123073,5
+2017,107,Kinematic and kinetic analysis of the goalkeeper’s diving save in football,anthropometry,0.18789165174159012,5
+2017,107,Kinematic and kinetic analysis of the goalkeeper’s diving save in football,ergonomics,0.18221225006393812,5
+2017,108,Inertial Sensors are a Valid Tool to Detect and Consistently Quantify Jumping,ankle,0.4044608513624154,1
+2017,108,Inertial Sensors are a Valid Tool to Detect and Consistently Quantify Jumping,rom,0.31881067925998374,5
+2017,108,Inertial Sensors are a Valid Tool to Detect and Consistently Quantify Jumping,of ankle,0.2661146406891719,1
+2017,108,Inertial Sensors are a Valid Tool to Detect and Consistently Quantify Jumping,absolute,0.219668075332442,5
+2017,108,Inertial Sensors are a Valid Tool to Detect and Consistently Quantify Jumping,relative rom,0.15125774435452882,5
+2017,109,Prior Knowledge of the Grading Criteria Increases Functional Movement Screen Scores in Youth Soccer Players,when injury,0.23999446338132144,6
+2017,109,Prior Knowledge of the Grading Criteria Increases Functional Movement Screen Scores in Youth Soccer Players,which lower,0.23999446338132144,5
+2017,109,Prior Knowledge of the Grading Criteria Increases Functional Movement Screen Scores in Youth Soccer Players,mass,0.2242160551875455,5
+2017,109,Prior Knowledge of the Grading Criteria Increases Functional Movement Screen Scores in Youth Soccer Players,lean,0.22125636448660216,5
+2017,109,Prior Knowledge of the Grading Criteria Increases Functional Movement Screen Scores in Youth Soccer Players,to total,0.22125636448660216,2
+2017,110,Gait Mechanics After ACL Reconstruction Differ According to Medial Meniscal Treatment,basketball,0.31402020149420046,5
+2017,110,Gait Mechanics After ACL Reconstruction Differ According to Medial Meniscal Treatment,basketball players,0.24675286973280627,5
+2017,110,Gait Mechanics After ACL Reconstruction Differ According to Medial Meniscal Treatment,front,0.18419344002011026,5
+2017,110,Gait Mechanics After ACL Reconstruction Differ According to Medial Meniscal Treatment,sl,0.18351870572807163,5
+2017,110,Gait Mechanics After ACL Reconstruction Differ According to Medial Meniscal Treatment,hip,0.18173282604858465,5
+2017,111,Closing the Wearable Gap: Mobile Systems for Kinematic Signal Monitoring of the Foot and Ankle,rt,0.3976245543260362,5
+2017,111,Closing the Wearable Gap: Mobile Systems for Kinematic Signal Monitoring of the Foot and Ankle,stretching,0.25707037026517093,4
+2017,111,Closing the Wearable Gap: Mobile Systems for Kinematic Signal Monitoring of the Foot and Ankle,group,0.1632489528221758,5
+2017,111,Closing the Wearable Gap: Mobile Systems for Kinematic Signal Monitoring of the Foot and Ankle,lower limb,0.15587638365668446,5
+2017,111,Closing the Wearable Gap: Mobile Systems for Kinematic Signal Monitoring of the Foot and Ankle,warming up,0.1437663978075723,5
+2017,112,Effects of Different Plyometric Training Frequencies on Components of Physical Fitness in Amateur Female Soccer Players,pitches,0.38804640731495826,5
+2017,112,Effects of Different Plyometric Training Frequencies on Components of Physical Fitness in Amateur Female Soccer Players,structural,0.2612596053770788,4
+2017,112,Effects of Different Plyometric Training Frequencies on Components of Physical Fitness in Amateur Female Soccer Players,turf football,0.25254592655003794,5
+2017,112,Effects of Different Plyometric Training Frequencies on Components of Physical Fitness in Amateur Female Soccer Players,structural components,0.25254592655003794,4
+2017,112,Effects of Different Plyometric Training Frequencies on Components of Physical Fitness in Amateur Female Soccer Players,football pitches,0.2414412785508849,5
+2017,113,Could recreational soccer players recover single-leg heel raise performance 12-weeks after Achilles tenorrhaphy through immediate rehabilitation?,hamstring injury,0.28736460616125115,6
+2017,113,Could recreational soccer players recover single-leg heel raise performance 12-weeks after Achilles tenorrhaphy through immediate rehabilitation?,hamstring,0.2826275204914223,4
+2017,113,Could recreational soccer players recover single-leg heel raise performance 12-weeks after Achilles tenorrhaphy through immediate rehabilitation?,activation pattern,0.21560038133659162,5
+2017,113,Could recreational soccer players recover single-leg heel raise performance 12-weeks after Achilles tenorrhaphy through immediate rehabilitation?,activation,0.18164311361371616,5
+2017,113,Could recreational soccer players recover single-leg heel raise performance 12-weeks after Achilles tenorrhaphy through immediate rehabilitation?,pattern,0.1497801612418205,5
+2017,114,Mechanisms of acute adductor longus injuries in male football players: a systematic visual video analysis,aclr,0.2716577899513688,6
+2017,114,Mechanisms of acute adductor longus injuries in male football players: a systematic visual video analysis,barrier,0.2679356178864066,5
+2017,114,Mechanisms of acute adductor longus injuries in male football players: a systematic visual video analysis,to pre,0.23954939939956546,5
+2017,114,Mechanisms of acute adductor longus injuries in male football players: a systematic visual video analysis,sports participation,0.2332365195376914,5
+2017,114,Mechanisms of acute adductor longus injuries in male football players: a systematic visual video analysis,pre injury,0.17966204954967407,6
+2017,115,A novel Cervical Spine Protection device for reducing neck injuries in contact sports: design concepts and preliminary <i>in vivo</i> testing,x0d,0.6331753685627651,5
+2017,115,A novel Cervical Spine Protection device for reducing neck injuries in contact sports: design concepts and preliminary <i>in vivo</i> testing,combat,0.22076570209547433,5
+2017,115,A novel Cervical Spine Protection device for reducing neck injuries in contact sports: design concepts and preliminary <i>in vivo</i> testing,improve physical,0.22076570209547433,2
+2017,115,A novel Cervical Spine Protection device for reducing neck injuries in contact sports: design concepts and preliminary <i>in vivo</i> testing,conditions of,0.19217536061918097,5
+2017,115,A novel Cervical Spine Protection device for reducing neck injuries in contact sports: design concepts and preliminary <i>in vivo</i> testing,strategy to,0.14070563745839224,4
+2017,116,A review of the key demands for a football goalkeeper,preventive,0.1828572259529562,5
+2017,116,A review of the key demands for a football goalkeeper,concussions,0.15716422373447134,5
+2017,116,A review of the key demands for a football goalkeeper,laws,0.15456731350422248,5
+2017,116,A review of the key demands for a football goalkeeper,to brain,0.15456731350422248,5
+2017,116,A review of the key demands for a football goalkeeper,preventive measures,0.1490531140001334,5
+2017,117,"Association between knee-to-hip flexion ratio during single-leg vertical landings, and strength and range of motion in professional soccer players",skin,0.3730845363786132,5
+2017,117,"Association between knee-to-hip flexion ratio during single-leg vertical landings, and strength and range of motion in professional soccer players",sliding,0.2638293452768138,5
+2017,117,"Association between knee-to-hip flexion ratio during single-leg vertical landings, and strength and range of motion in professional soccer players",landing phase,0.19787200895761037,5
+2017,117,"Association between knee-to-hip flexion ratio during single-leg vertical landings, and strength and range of motion in professional soccer players",of sliding,0.14835490053261588,5
+2017,117,"Association between knee-to-hip flexion ratio during single-leg vertical landings, and strength and range of motion in professional soccer players",stresses,0.1387379837111937,4
+2017,118,Comparison between Residential and Non-Residential Soccer Players Physical Fitness,warm,0.41833304951866573,5
+2017,118,Comparison between Residential and Non-Residential Soccer Players Physical Fitness,warm up,0.3856215394464475,5
+2017,118,Comparison between Residential and Non-Residential Soccer Players Physical Fitness,up,0.256228714709645,5
+2017,118,Comparison between Residential and Non-Residential Soccer Players Physical Fitness,re,0.19281076972322375,5
+2017,118,Comparison between Residential and Non-Residential Soccer Players Physical Fitness,physical performance,0.15212110891587843,2
+2017,119,A kinematics analysis of the lower limb during running with different sports shoes,male youth,0.3720423097766748,5
+2017,119,A kinematics analysis of the lower limb during running with different sports shoes,youth,0.24979647204666247,5
+2017,119,A kinematics analysis of the lower limb during running with different sports shoes,in male,0.24563692218067465,5
+2017,119,A kinematics analysis of the lower limb during running with different sports shoes,youth soccer,0.23491285257461567,5
+2017,119,A kinematics analysis of the lower limb during running with different sports shoes,dominance,0.17929327935554226,5
+2017,120,Effects of football simulated fatigue on neuromuscular function and whole‐body response to disturbances in balance,crossover cutting,0.30943204068068253,5
+2017,120,Effects of football simulated fatigue on neuromuscular function and whole‐body response to disturbances in balance,crossover,0.2693589332061299,5
+2017,120,Effects of football simulated fatigue on neuromuscular function and whole‐body response to disturbances in balance,cutting manoeuvre,0.23207403051051192,5
+2017,120,Effects of football simulated fatigue on neuromuscular function and whole‐body response to disturbances in balance,manoeuvre,0.21395433694202884,5
+2017,120,Effects of football simulated fatigue on neuromuscular function and whole‐body response to disturbances in balance,cutting,0.19747849585372065,5
+2017,121,Association between trunk pain and lower extremity pain among youth soccer players: a cross-sectional study,injuries,0.24292460201247265,6
+2017,121,Association between trunk pain and lower extremity pain among youth soccer players: a cross-sectional study,ipr,0.20122432437766008,5
+2017,121,Association between trunk pain and lower extremity pain among youth soccer players: a cross-sectional study,ipr ci,0.20122432437766008,5
+2017,121,Association between trunk pain and lower extremity pain among youth soccer players: a cross-sectional study,isp,0.20122432437766008,5
+2017,121,Association between trunk pain and lower extremity pain among youth soccer players: a cross-sectional study,ncaa isp,0.20122432437766008,5
+2017,122,"Healthy Practice of Female Soccer and Futsal: Identifying Sources of Stress, Anxiety and Depression",angular,0.2672297881487177,1
+2017,122,"Healthy Practice of Female Soccer and Futsal: Identifying Sources of Stress, Anxiety and Depression",vgrf,0.21931054682897633,5
+2017,122,"Healthy Practice of Female Soccer and Futsal: Identifying Sources of Stress, Anxiety and Depression",valgus,0.20160673906231083,5
+2017,122,"Healthy Practice of Female Soccer and Futsal: Identifying Sources of Stress, Anxiety and Depression",angular impulse,0.18898423284603308,1
+2017,122,"Healthy Practice of Female Soccer and Futsal: Identifying Sources of Stress, Anxiety and Depression",knee,0.18219231180964549,5
+2017,123,"The Epidemiology of Ankle Injuries Identified at the National Football League Combine, 2009-2015",muscle strain,0.47672015102257537,4
+2017,123,"The Epidemiology of Ankle Injuries Identified at the National Football League Combine, 2009-2015",strain,0.30655455817450433,4
+2017,123,"The Epidemiology of Ankle Injuries Identified at the National Football League Combine, 2009-2015",muscle,0.24940310735396193,5
+2017,123,"The Epidemiology of Ankle Injuries Identified at the National Football League Combine, 2009-2015",hamstring muscle,0.24312191980726575,4
+2017,123,"The Epidemiology of Ankle Injuries Identified at the National Football League Combine, 2009-2015",strain injury,0.2263540018818198,6
+2017,124,"The relationship between jumping performance, isokinetic strength and dynamic postural control in elite youth soccer players",tools,0.36010937388636277,5
+2017,124,"The relationship between jumping performance, isokinetic strength and dynamic postural control in elite youth soccer players",movement,0.2327422034614684,5
+2017,124,"The relationship between jumping performance, isokinetic strength and dynamic postural control in elite youth soccer players",mcs,0.18147238793553996,5
+2017,124,"The relationship between jumping performance, isokinetic strength and dynamic postural control in elite youth soccer players",assessment tools,0.17349290073050425,4
+2017,124,"The relationship between jumping performance, isokinetic strength and dynamic postural control in elite youth soccer players",appraisal,0.17349290073050425,5
+2017,125,A prospective study of functional outcome of ACL reconstruction with quadrupled semitendinosus tendon autograft using Endobutton and bioabsorbable interference screw,programs,0.24346488940590416,5
+2017,125,A prospective study of functional outcome of ACL reconstruction with quadrupled semitendinosus tendon autograft using Endobutton and bioabsorbable interference screw,acl,0.24007914536508332,6
+2017,125,A prospective study of functional outcome of ACL reconstruction with quadrupled semitendinosus tendon autograft using Endobutton and bioabsorbable interference screw,implementation,0.21315710927522466,5
+2017,125,A prospective study of functional outcome of ACL reconstruction with quadrupled semitendinosus tendon autograft using Endobutton and bioabsorbable interference screw,prevention,0.20280314847995667,5
+2017,125,A prospective study of functional outcome of ACL reconstruction with quadrupled semitendinosus tendon autograft using Endobutton and bioabsorbable interference screw,prevention programs,0.19605909917028333,5
+2017,126,High-Speed Video Analysis of Syndesmosis Injuries in Soccer—Can It Predict Injury Mechanism and Return to Play? A Pilot Study,cutting,0.2868082611412896,5
+2017,126,High-Speed Video Analysis of Syndesmosis Injuries in Soccer—Can It Predict Injury Mechanism and Return to Play? A Pilot Study,anticipated,0.21830387275283392,5
+2017,126,High-Speed Video Analysis of Syndesmosis Injuries in Soccer—Can It Predict Injury Mechanism and Return to Play? A Pilot Study,trunk,0.2080295454135018,5
+2017,126,High-Speed Video Analysis of Syndesmosis Injuries in Soccer—Can It Predict Injury Mechanism and Return to Play? A Pilot Study,program,0.16934487212984037,5
+2017,126,High-Speed Video Analysis of Syndesmosis Injuries in Soccer—Can It Predict Injury Mechanism and Return to Play? A Pilot Study,side,0.14964603196878776,5
+2017,127,Empirical Based Modeling for the Assessment of Dynamic Knee Stability: Implications for Anterior Cruciate Ligament Injury Risk,play an,0.2840910165869396,5
+2017,127,Empirical Based Modeling for the Assessment of Dynamic Knee Stability: Implications for Anterior Cruciate Ligament Injury Risk,important role,0.27159930554643524,5
+2017,127,Empirical Based Modeling for the Assessment of Dynamic Knee Stability: Implications for Anterior Cruciate Ligament Injury Risk,human movement,0.2619099817042752,5
+2017,127,Empirical Based Modeling for the Assessment of Dynamic Knee Stability: Implications for Anterior Cruciate Ligament Injury Risk,mathematical,0.247299707531807,2
+2017,127,Empirical Based Modeling for the Assessment of Dynamic Knee Stability: Implications for Anterior Cruciate Ligament Injury Risk,modelling,0.24150151664251815,5
+2017,128,A football helmet prototype that reduces linear and rotational acceleration with the addition of an outer shell,behaviour,0.26744608492887756,5
+2017,128,A football helmet prototype that reduces linear and rotational acceleration with the addition of an outer shell,as complex,0.254512878524747,5
+2017,128,A football helmet prototype that reduces linear and rotational acceleration with the addition of an outer shell,complex,0.21342787733329857,5
+2017,128,A football helmet prototype that reduces linear and rotational acceleration with the addition of an outer shell,game,0.1759721397138888,5
+2017,128,A football helmet prototype that reduces linear and rotational acceleration with the addition of an outer shell,golfers,0.16967525234983136,5
+2017,129,Concussion Rates Differ by Practice Type and Equipment Worn in an Autonomy Five Collegiate Football Conference,concussion,0.2178252315538186,5
+2017,129,Concussion Rates Differ by Practice Type and Equipment Worn in an Autonomy Five Collegiate Football Conference,control,0.18791595023068716,5
+2017,129,Concussion Rates Differ by Practice Type and Equipment Worn in an Autonomy Five Collegiate Football Conference,preseason evaluation,0.141192846937056,5
+2017,129,Concussion Rates Differ by Practice Type and Equipment Worn in an Autonomy Five Collegiate Football Conference,play decision,0.141192846937056,5
+2017,129,Concussion Rates Differ by Practice Type and Equipment Worn in an Autonomy Five Collegiate Football Conference,assessment,0.14066932626520148,4
+2017,130,"Return to play, performance, and career duration after anterior cruciate ligament rupture: A case–control study in the five biggest football nations in Europe",min,0.2740593585689515,5
+2017,130,"Return to play, performance, and career duration after anterior cruciate ligament rupture: A case–control study in the five biggest football nations in Europe",match,0.15562358465695736,5
+2017,130,"Return to play, performance, and career duration after anterior cruciate ligament rupture: A case–control study in the five biggest football nations in Europe",time,0.15354650421957344,5
+2017,130,"Return to play, performance, and career duration after anterior cruciate ligament rupture: A case–control study in the five biggest football nations in Europe",to baseline,0.1476034036796756,5
+2017,130,"Return to play, performance, and career duration after anterior cruciate ligament rupture: A case–control study in the five biggest football nations in Europe",to large,0.14233764213591885,5
+2017,131,"Tension band plating of an anterior tibial stress fracture nonunion in an elite athlete, initially treated with intramedullary nailing: a case report",cod,0.481662200963924,5
+2017,131,"Tension band plating of an anterior tibial stress fracture nonunion in an elite athlete, initially treated with intramedullary nailing: a case report",of cod,0.2361151114103651,5
+2017,131,"Tension band plating of an anterior tibial stress fracture nonunion in an elite athlete, initially treated with intramedullary nailing: a case report",physical attributes,0.1692997046998736,2
+2017,131,"Tension band plating of an anterior tibial stress fracture nonunion in an elite athlete, initially treated with intramedullary nailing: a case report",isometric strength,0.163259926130047,4
+2017,131,"Tension band plating of an anterior tibial stress fracture nonunion in an elite athlete, initially treated with intramedullary nailing: a case report",cod ability,0.158325067716904,4
+2017,132,In-Season Variations in Head Impact Exposure among Youth Football Players,peak torque,0.34309248056082237,5
+2017,132,In-Season Variations in Head Impact Exposure among Youth Football Players,torque,0.29846617165980227,5
+2017,132,In-Season Variations in Head Impact Exposure among Youth Football Players,two categories,0.2048264180389536,5
+2017,132,In-Season Variations in Head Impact Exposure among Youth Football Players,peak,0.1987810802074092,5
+2017,132,In-Season Variations in Head Impact Exposure among Youth Football Players,categories,0.14390634948764747,5
+2017,133,"The “Football is Medicine” platform—scientific evidence, large‐scale implementation of evidence‐based concepts and future perspectives",shoes,0.40068800404084165,5
+2017,133,"The “Football is Medicine” platform—scientific evidence, large‐scale implementation of evidence‐based concepts and future perspectives",cleats,0.3612018295040326,5
+2017,133,"The “Football is Medicine” platform—scientific evidence, large‐scale implementation of evidence‐based concepts and future perspectives",wearing,0.2804623261506811,5
+2017,133,"The “Football is Medicine” platform—scientific evidence, large‐scale implementation of evidence‐based concepts and future perspectives",shoes so,0.2170468974628473,5
+2017,133,"The “Football is Medicine” platform—scientific evidence, large‐scale implementation of evidence‐based concepts and future perspectives",players wearing,0.20010048056576749,5
+2017,134,A novel approach to enhance ACL injury prevention programs,symptoms,0.20889859719426124,5
+2017,134,A novel approach to enhance ACL injury prevention programs,recovery,0.20745828989735196,5
+2017,134,A novel approach to enhance ACL injury prevention programs,persistent,0.19187817041171346,5
+2017,134,A novel approach to enhance ACL injury prevention programs,greater risk,0.17471110733912465,5
+2017,134,A novel approach to enhance ACL injury prevention programs,clinical,0.15224464205424448,2
+2017,135,Metabolic Power in Team Sports - Part 1: An Update,deceptive,0.46242088303785867,5
+2017,135,Metabolic Power in Team Sports - Part 1: An Update,actions,0.32159834191182,5
+2017,135,Metabolic Power in Team Sports - Part 1: An Update,of deceptive,0.18496835321514346,5
+2017,135,Metabolic Power in Team Sports - Part 1: An Update,disciplines,0.1653720332897266,5
+2017,135,Metabolic Power in Team Sports - Part 1: An Update,research,0.15144131221746535,5
+2017,136,A Biomechanical Comparison of Single-Leg Landing and Unplanned Sidestepping,temperature,0.28963662726218503,5
+2017,136,A Biomechanical Comparison of Single-Leg Landing and Unplanned Sidestepping,tibialis anterior,0.2239982669197289,4
+2017,136,A Biomechanical Comparison of Single-Leg Landing and Unplanned Sidestepping,tibialis,0.2239982669197289,4
+2017,136,A Biomechanical Comparison of Single-Leg Landing and Unplanned Sidestepping,gastrocnemius,0.18080284044800068,5
+2017,136,A Biomechanical Comparison of Single-Leg Landing and Unplanned Sidestepping,muscles,0.1724275050953631,5
+2017,137,Assessment of Perceptual-Cognitive Abilities among Athletes in Virtual Environments,intervention,0.3028020995779471,5
+2017,137,Assessment of Perceptual-Cognitive Abilities among Athletes in Virtual Environments,mentored,0.17953190023638996,5
+2017,137,Assessment of Perceptual-Cognitive Abilities among Athletes in Virtual Environments,mentored players,0.17953190023638996,5
+2017,137,Assessment of Perceptual-Cognitive Abilities among Athletes in Virtual Environments,mentoring,0.17163773783995484,5
+2017,137,Assessment of Perceptual-Cognitive Abilities among Athletes in Virtual Environments,high,0.15163003346485315,5
+2017,138,Bowlegs and Intensive Football Training in Children and Adolescents,head,0.3254680197408391,5
+2017,138,Bowlegs and Intensive Football Training in Children and Adolescents,neck,0.26189569951535413,5
+2017,138,Bowlegs and Intensive Football Training in Children and Adolescents,lt,0.19373835791552108,5
+2017,138,Bowlegs and Intensive Football Training in Children and Adolescents,upper trapezius,0.1580782689596177,5
+2017,138,Bowlegs and Intensive Football Training in Children and Adolescents,trapezius,0.1580782689596177,5
+2017,139,IMPROVEMENT OF LONG SHOTS ON GOAL IN AN ELITE FOOTBALL TEAM,krad,0.26819302332798545,5
+2017,139,IMPROVEMENT OF LONG SHOTS ON GOAL IN AN ELITE FOOTBALL TEAM,fs,0.2244224549410589,5
+2017,139,IMPROVEMENT OF LONG SHOTS ON GOAL IN AN ELITE FOOTBALL TEAM,head,0.21326046747631178,5
+2017,139,IMPROVEMENT OF LONG SHOTS ON GOAL IN AN ELITE FOOTBALL TEAM,accelerations,0.21171918497538184,5
+2017,139,IMPROVEMENT OF LONG SHOTS ON GOAL IN AN ELITE FOOTBALL TEAM,hs,0.20690017506996194,5
+2017,140,Previous foot injuries associated with a greater likelihood of Achilles tendon ruptures in professional American football players,cop,0.26188211082142565,5
+2017,140,Previous foot injuries associated with a greater likelihood of Achilles tendon ruptures in professional American football players,quiet stance,0.24071359035687628,4
+2017,140,Previous foot injuries associated with a greater likelihood of Achilles tendon ruptures in professional American football players,quiet,0.24071359035687628,5
+2017,140,Previous foot injuries associated with a greater likelihood of Achilles tendon ruptures in professional American football players,eyes,0.21917729271958372,5
+2017,140,Previous foot injuries associated with a greater likelihood of Achilles tendon ruptures in professional American football players,stance,0.16191001923683326,4
+2017,141,Influence of Maximal Running Shoes on Biomechanics Before and After a 5K Run,concussed,0.2529540225578324,5
+2017,141,Influence of Maximal Running Shoes on Biomechanics Before and After a 5K Run,subjects,0.18835663215951398,3
+2017,141,Influence of Maximal Running Shoes on Biomechanics Before and After a 5K Run,dominant leg,0.1643278280752212,5
+2017,141,Influence of Maximal Running Shoes on Biomechanics Before and After a 5K Run,cut,0.15825450475248973,5
+2017,141,Influence of Maximal Running Shoes on Biomechanics Before and After a 5K Run,on their,0.1547448348687313,5
+2017,142,Necessary Steps to Accelerate the Integration of Wearable Sensors Into Recreation and Competitive Sports,gain,0.2228141534177527,5
+2017,142,Necessary Steps to Accelerate the Integration of Wearable Sensors Into Recreation and Competitive Sports,contact sport,0.2228141534177527,5
+2017,142,Necessary Steps to Accelerate the Integration of Wearable Sensors Into Recreation and Competitive Sports,at hz,0.17575444282967131,5
+2017,142,Necessary Steps to Accelerate the Integration of Wearable Sensors Into Recreation and Competitive Sports,contact,0.17148658822502924,5
+2017,142,Necessary Steps to Accelerate the Integration of Wearable Sensors Into Recreation and Competitive Sports,t2,0.1711227606565774,5
+2017,143,Passive Hip Range-of-Motion Values Across Sex and Sport,services,0.26483583184621384,5
+2017,143,Passive Hip Range-of-Motion Values Across Sex and Sport,visits,0.21186866547697106,5
+2017,143,Passive Hip Range-of-Motion Values Across Sex and Sport,sex,0.1932114981032005,5
+2017,143,Passive Hip Range-of-Motion Values Across Sex and Sport,ats,0.18942241411185953,5
+2017,143,Passive Hip Range-of-Motion Values Across Sex and Sport,by sport,0.15191447208165812,5
+2017,144,Weightbearing ankle dorsiflexion range of motion and sagittal plane kinematics during single leg drop jump landing in healthy male athletes,cumulative,0.25717253864062345,5
+2017,144,Weightbearing ankle dorsiflexion range of motion and sagittal plane kinematics during single leg drop jump landing in healthy male athletes,white,0.2563486973341875,5
+2017,144,Weightbearing ankle dorsiflexion range of motion and sagittal plane kinematics during single leg drop jump landing in healthy male athletes,white matter,0.2136508815957139,5
+2017,144,Weightbearing ankle dorsiflexion range of motion and sagittal plane kinematics during single leg drop jump landing in healthy male athletes,matter,0.2091263179585599,5
+2017,144,Weightbearing ankle dorsiflexion range of motion and sagittal plane kinematics during single leg drop jump landing in healthy male athletes,head,0.179121467661183,5
+2017,145,Fifth metatarsal stress fracture in elite male football players: an on-field analysis of plantar loading,heading,0.5533846587555921,5
+2017,145,Fifth metatarsal stress fracture in elite male football players: an on-field analysis of plantar loading,g1,0.23805820106328765,5
+2017,145,Fifth metatarsal stress fracture in elite male football players: an on-field analysis of plantar loading,concussion,0.1836321169761993,5
+2017,145,Fifth metatarsal stress fracture in elite male football players: an on-field analysis of plantar loading,bout of,0.17854365079746576,5
+2017,145,Fifth metatarsal stress fracture in elite male football players: an on-field analysis of plantar loading,bout,0.16460346010085186,5
+2017,146,Work-Related Injury and Management Strategies Among Certified Athletic Trainers,impacts,0.30858878326387357,5
+2017,146,Work-Related Injury and Management Strategies Among Certified Athletic Trainers,rad,0.26055532954463684,5
+2017,146,Work-Related Injury and Management Strategies Among Certified Athletic Trainers,median,0.15165950086634472,5
+2017,146,Work-Related Injury and Management Strategies Among Certified Athletic Trainers,distribution,0.14577288164322738,5
+2017,146,Work-Related Injury and Management Strategies Among Certified Athletic Trainers,per,0.1383224017815503,5
+2017,147,Comparing Acceleration and Change of Direction Ability Between Backpedal and Cross-over Run Techniques for Use in American Football,passes,0.3282604907992759,4
+2017,147,Comparing Acceleration and Change of Direction Ability Between Backpedal and Cross-over Run Techniques for Use in American Football,shots,0.24616214856498303,5
+2017,147,Comparing Acceleration and Change of Direction Ability Between Backpedal and Cross-over Run Techniques for Use in American Football,of successful,0.21630916323169955,5
+2017,147,Comparing Acceleration and Change of Direction Ability Between Backpedal and Cross-over Run Techniques for Use in American Football,percentage of,0.17298558689681895,5
+2017,147,Comparing Acceleration and Change of Direction Ability Between Backpedal and Cross-over Run Techniques for Use in American Football,percentage,0.1543457830145473,5
+2017,148,Fluctuations in blood biomarkers of head trauma in NCAA football athletes over the course of a season,trunk,0.3388635361117719,5
+2017,148,Fluctuations in blood biomarkers of head trauma in NCAA football athletes over the course of a season,acl injury,0.2374881253695907,6
+2017,148,Fluctuations in blood biomarkers of head trauma in NCAA football athletes over the course of a season,hip,0.2314710027367286,5
+2017,148,Fluctuations in blood biomarkers of head trauma in NCAA football athletes over the course of a season,acl,0.20866640540936793,6
+2017,148,Fluctuations in blood biomarkers of head trauma in NCAA football athletes over the course of a season,screening,0.18284064265391448,5
+2017,149,Countermovement Jump Recovery in Professional Soccer Players Using an Inertial Sensor,sever,0.5665148000736536,5
+2017,149,Countermovement Jump Recovery in Professional Soccer Players Using an Inertial Sensor,sever disease,0.45321184005892284,5
+2017,149,Countermovement Jump Recovery in Professional Soccer Players Using an Inertial Sensor,disease,0.38681995241398726,5
+2017,149,Countermovement Jump Recovery in Professional Soccer Players Using an Inertial Sensor,patient,0.22439761881905798,5
+2017,149,Countermovement Jump Recovery in Professional Soccer Players Using an Inertial Sensor,test,0.11934662941450232,5
+2017,150,Women in university hockey demonstrate knowledge discordant with attitudes regarding concussions,kinesio,0.4237238626040934,5
+2017,150,Women in university hockey demonstrate knowledge discordant with attitudes regarding concussions,kinesio taping,0.4237238626040934,5
+2017,150,Women in university hockey demonstrate knowledge discordant with attitudes regarding concussions,taping,0.39064068422712966,5
+2017,150,Women in university hockey demonstrate knowledge discordant with attitudes regarding concussions,jump,0.19814629998812452,5
+2017,150,Women in university hockey demonstrate knowledge discordant with attitudes regarding concussions,countermovement,0.15262095664970626,5
+2017,151,Analysis of muscle force in cycling and soccer athletes and regular gym participants: case-study,temperature,0.3456862017457433,5
+2017,151,Analysis of muscle force in cycling and soccer athletes and regular gym participants: case-study,environmental,0.23764063212907957,2
+2017,151,Analysis of muscle force in cycling and soccer athletes and regular gym participants: case-study,environmental conditions,0.1933247302888432,2
+2017,151,Analysis of muscle force in cycling and soccer athletes and regular gym participants: case-study,body temperature,0.1933247302888432,5
+2017,151,Analysis of muscle force in cycling and soccer athletes and regular gym participants: case-study,acceleration,0.16638417227198687,5
+2017,152,"Normative Quadriceps and Hamstring Muscle Strength Values for Female, Healthy, Elite Handball and Football Players",criteria,0.21062813043120784,5
+2017,152,"Normative Quadriceps and Hamstring Muscle Strength Values for Female, Healthy, Elite Handball and Football Players",coordinate,0.20126060743681132,5
+2017,152,"Normative Quadriceps and Hamstring Muscle Strength Values for Female, Healthy, Elite Handball and Football Players",coordinate analysis,0.20126060743681132,5
+2017,152,"Normative Quadriceps and Hamstring Muscle Strength Values for Female, Healthy, Elite Handball and Football Players",polar coordinate,0.20126060743681132,5
+2017,152,"Normative Quadriceps and Hamstring Muscle Strength Values for Female, Healthy, Elite Handball and Football Players",polar,0.19408062147108246,5
+2017,153,Head Impact Kinematics Estimation With Network of Inertial Measurement Units,sex,0.27036379838996744,5
+2017,153,Head Impact Kinematics Estimation With Network of Inertial Measurement Units,players worldwide,0.22235329310307644,5
+2017,153,Head Impact Kinematics Estimation With Network of Inertial Measurement Units,to overall,0.22235329310307644,5
+2017,153,Head Impact Kinematics Estimation With Network of Inertial Measurement Units,sex specific,0.22235329310307644,5
+2017,153,Head Impact Kinematics Estimation With Network of Inertial Measurement Units,growth of,0.22235329310307644,5
+2017,154,The impact of video speed on the decision-making process of sports officials,sup1 pp,0.2728563833530311,3
+2017,154,The impact of video speed on the decision-making process of sports officials,sup1,0.2728563833530311,3
+2017,154,The impact of video speed on the decision-making process of sports officials,football boot,0.2728563833530311,5
+2017,154,The impact of video speed on the decision-making process of sports officials,experiment to,0.2728563833530311,5
+2017,154,The impact of video speed on the decision-making process of sports officials,science sup1,0.2728563833530311,3
+2017,155,"Use of inertial measurement units for measuring torso and pelvis orientation, and shoulder–pelvis separation angle in the discus throw",footwear,0.3429410448018873,1
+2017,155,"Use of inertial measurement units for measuring torso and pelvis orientation, and shoulder–pelvis separation angle in the discus throw",sup1,0.241496066134111,3
+2017,155,"Use of inertial measurement units for measuring torso and pelvis orientation, and shoulder–pelvis separation angle in the discus throw",footwear science,0.241496066134111,1
+2017,155,"Use of inertial measurement units for measuring torso and pelvis orientation, and shoulder–pelvis separation angle in the discus throw",on footwear,0.241496066134111,1
+2017,155,"Use of inertial measurement units for measuring torso and pelvis orientation, and shoulder–pelvis separation angle in the discus throw",sup1 pp,0.241496066134111,3
+2017,156,Strategies to improve impact efficiency in football kicking,stiffness,0.3772092784004876,4
+2017,156,Strategies to improve impact efficiency in football kicking,bending,0.37249630963667385,5
+2017,156,Strategies to improve impact efficiency in football kicking,insoles,0.2524841846704241,5
+2017,156,Strategies to improve impact efficiency in football kicking,mtp,0.21909356253900888,5
+2017,156,Strategies to improve impact efficiency in football kicking,variable,0.20819147720197334,5
+2017,157,Muscle Activation During ACL Injury Risk Movements in Young Female Athletes: A Narrative Review,aclr,0.30766290582712486,6
+2017,157,Muscle Activation During ACL Injury Risk Movements in Young Female Athletes: A Narrative Review,returned,0.26164864747176686,5
+2017,157,Muscle Activation During ACL Injury Risk Movements in Young Female Athletes: A Narrative Review,who returned,0.19779857435437057,5
+2017,157,Muscle Activation During ACL Injury Risk Movements in Young Female Athletes: A Narrative Review,nfl,0.1898188793901112,5
+2017,157,Muscle Activation During ACL Injury Risk Movements in Young Female Athletes: A Narrative Review,matched controls,0.18497653456914845,5
+2017,158,"Sub-elite Football Players With Hip-Related Groin Pain and a Positive Flexion, Adduction, and Internal Rotation Test Exhibit Distinct Biomechanical Differences Compared With the Asymptomatic Side",acl,0.2783372129697072,6
+2017,158,"Sub-elite Football Players With Hip-Related Groin Pain and a Positive Flexion, Adduction, and Internal Rotation Test Exhibit Distinct Biomechanical Differences Compared With the Asymptomatic Side",of acl,0.24718222116818303,6
+2017,158,"Sub-elite Football Players With Hip-Related Groin Pain and a Positive Flexion, Adduction, and Internal Rotation Test Exhibit Distinct Biomechanical Differences Compared With the Asymptomatic Side",rotation,0.2259642892133641,5
+2017,158,"Sub-elite Football Players With Hip-Related Groin Pain and a Positive Flexion, Adduction, and Internal Rotation Test Exhibit Distinct Biomechanical Differences Compared With the Asymptomatic Side",acl during,0.19927811441853113,6
+2017,158,"Sub-elite Football Players With Hip-Related Groin Pain and a Positive Flexion, Adduction, and Internal Rotation Test Exhibit Distinct Biomechanical Differences Compared With the Asymptomatic Side",shear force,0.18371903458428257,5
+2017,159,Soccer Injury Movement Screen (SIMS) Composite Score Is Not Associated With Injury Among Semiprofessional Soccer Players,afl,0.2685401235614052,5
+2017,159,Soccer Injury Movement Screen (SIMS) Composite Score Is Not Associated With Injury Among Semiprofessional Soccer Players,size,0.23907878692663098,5
+2017,159,Soccer Injury Movement Screen (SIMS) Composite Score Is Not Associated With Injury Among Semiprofessional Soccer Players,preseason,0.22199599964588776,5
+2017,159,Soccer Injury Movement Screen (SIMS) Composite Score Is Not Associated With Injury Among Semiprofessional Soccer Players,lbp,0.2148320988491242,5
+2017,159,Soccer Injury Movement Screen (SIMS) Composite Score Is Not Associated With Injury Among Semiprofessional Soccer Players,strength training,0.1956113809162498,4
+2017,160,Physical preparation of the football player with an intramuscular hamstring tendon tear: clinical perspective with video demonstrations,rom,0.33322134634666134,5
+2017,160,Physical preparation of the football player with an intramuscular hamstring tendon tear: clinical perspective with video demonstrations,activation,0.2604641609046956,5
+2017,160,Physical preparation of the football player with an intramuscular hamstring tendon tear: clinical perspective with video demonstrations,gmax,0.2155838123805864,5
+2017,160,Physical preparation of the football player with an intramuscular hamstring tendon tear: clinical perspective with video demonstrations,activation during,0.21526020879423374,5
+2017,160,Physical preparation of the football player with an intramuscular hamstring tendon tear: clinical perspective with video demonstrations,dvj,0.21526020879423374,5
+2017,161,Epidemiology of Hip and Groin Injuries in Collegiate Athletes in the United States,nas,0.3573234681492763,5
+2017,161,Epidemiology of Hip and Groin Injuries in Collegiate Athletes in the United States,concentric,0.24850658587921118,5
+2017,161,Epidemiology of Hip and Groin Injuries in Collegiate Athletes in the United States,concentric phase,0.17866173407463815,5
+2017,161,Epidemiology of Hip and Groin Injuries in Collegiate Athletes in the United States,produced,0.17505864176473757,5
+2017,161,Epidemiology of Hip and Groin Injuries in Collegiate Athletes in the United States,greater,0.17155490346313243,5
+2017,162,Italian consensus conference on guidelines for conservative treatment on lower limb muscle injuries in athlete,dom,0.2656200986449287,5
+2017,162,Italian consensus conference on guidelines for conservative treatment on lower limb muscle injuries in athlete,fppa,0.22226944563982928,5
+2017,162,Italian consensus conference on guidelines for conservative treatment on lower limb muscle injuries in athlete,who participate,0.1490409691362933,5
+2017,162,Italian consensus conference on guidelines for conservative treatment on lower limb muscle injuries in athlete,group,0.1472277154634805,5
+2017,162,Italian consensus conference on guidelines for conservative treatment on lower limb muscle injuries in athlete,add,0.14171094409337862,5
+2017,163,Study of the measurement and predictive validity of the Functional Movement Screen,head,0.2935050855231755,5
+2017,163,Study of the measurement and predictive validity of the Functional Movement Screen,tackling,0.2625632528597845,5
+2017,163,Study of the measurement and predictive validity of the Functional Movement Screen,r2,0.2520289074801848,5
+2017,163,Study of the measurement and predictive validity of the Functional Movement Screen,tackles,0.23012032178223968,5
+2017,163,Study of the measurement and predictive validity of the Functional Movement Screen,trunk,0.20016470966249397,5
+2017,164,Dynamics of submaximal effort soccer instep kicking,shoe,0.2401367975934057,5
+2017,164,Dynamics of submaximal effort soccer instep kicking,unexpected,0.2200707115666978,5
+2017,164,Dynamics of submaximal effort soccer instep kicking,initiated,0.20580490895168518,5
+2017,164,Dynamics of submaximal effort soccer instep kicking,drop,0.18545632314734914,5
+2017,164,Dynamics of submaximal effort soccer instep kicking,vs,0.17541027234032253,5
+2017,165,HEMATOLOGICAL PARAMETERS AND BODY COMPOSITION OF SOCCER PLAYERS,feet,0.31471075056032266,5
+2017,165,HEMATOLOGICAL PARAMETERS AND BODY COMPOSITION OF SOCCER PLAYERS,pushing,0.21368543311579913,5
+2017,165,HEMATOLOGICAL PARAMETERS AND BODY COMPOSITION OF SOCCER PLAYERS,force,0.2021942737788928,5
+2017,165,HEMATOLOGICAL PARAMETERS AND BODY COMPOSITION OF SOCCER PLAYERS,activation,0.17502182651610157,5
+2017,165,HEMATOLOGICAL PARAMETERS AND BODY COMPOSITION OF SOCCER PLAYERS,through,0.17253207056046846,5
+2017,166,Effect of Maturation on Heart Rate During a Six-Week Plyometric Training in Female Soccer Players,vgrf,0.4199890029005527,5
+2017,166,Effect of Maturation on Heart Rate During a Six-Week Plyometric Training in Female Soccer Players,dom,0.21934110595493522,5
+2017,166,Effect of Maturation on Heart Rate During a Six-Week Plyometric Training in Female Soccer Players,limb,0.16760538195093233,5
+2017,166,Effect of Maturation on Heart Rate During a Six-Week Plyometric Training in Female Soccer Players,landing,0.15879276732218342,5
+2017,166,Effect of Maturation on Heart Rate During a Six-Week Plyometric Training in Female Soccer Players,linear regression,0.15272327378201916,4
+2017,167,A Novel Approach To Investigate Differences In Knee Mechanics After ACL Reconstruction Using Inertial Sensors,landing,0.2961996182195357,5
+2017,167,A Novel Approach To Investigate Differences In Knee Mechanics After ACL Reconstruction Using Inertial Sensors,f1,0.2808351582582639,5
+2017,167,A Novel Approach To Investigate Differences In Knee Mechanics After ACL Reconstruction Using Inertial Sensors,fatigue,0.2766733531294041,5
+2017,167,A Novel Approach To Investigate Differences In Knee Mechanics After ACL Reconstruction Using Inertial Sensors,landing biomechanics,0.19174484761361776,5
+2017,167,A Novel Approach To Investigate Differences In Knee Mechanics After ACL Reconstruction Using Inertial Sensors,aclr,0.15576066525231416,6
+2017,168,Biomechanical Evaluation Of Landing Maneuvers In Soccer Players With An Anterior Cruciate Ligament Reconstruction,visual,0.2992890427713764,2
+2017,168,Biomechanical Evaluation Of Landing Maneuvers In Soccer Players With An Anterior Cruciate Ligament Reconstruction,bh,0.22721392771951865,5
+2017,168,Biomechanical Evaluation Of Landing Maneuvers In Soccer Players With An Anterior Cruciate Ligament Reconstruction,memory,0.20947369743303404,5
+2017,168,Biomechanical Evaluation Of Landing Maneuvers In Soccer Players With An Anterior Cruciate Ligament Reconstruction,soccer ball,0.1790699426355049,5
+2017,168,Biomechanical Evaluation Of Landing Maneuvers In Soccer Players With An Anterior Cruciate Ligament Reconstruction,neurocognitive,0.1417955416670988,5
+2017,169,The Preventive Effect Of A Bounding Exercise Programme On Hamstring Injuries In Amateur Male Soccer,fms,0.35741028252131807,5
+2017,169,The Preventive Effect Of A Bounding Exercise Programme On Hamstring Injuries In Amateur Male Soccer,previous injury,0.30349286943983533,6
+2017,169,The Preventive Effect Of A Bounding Exercise Programme On Hamstring Injuries In Amateur Male Soccer,score,0.21022223979533716,5
+2017,169,The Preventive Effect Of A Bounding Exercise Programme On Hamstring Injuries In Amateur Male Soccer,injury,0.20296061573337848,6
+2017,169,The Preventive Effect Of A Bounding Exercise Programme On Hamstring Injuries In Amateur Male Soccer,previous,0.16747126328046147,5
+2017,170,Do Compression Socks Influence Muscle Activity of the Lower Extremities?,eccentric,0.24546984188862012,5
+2017,170,Do Compression Socks Influence Muscle Activity of the Lower Extremities?,isokinetic,0.2269997481394543,5
+2017,170,Do Compression Socks Influence Muscle Activity of the Lower Extremities?,dominant,0.21083687752653268,5
+2017,170,Do Compression Socks Influence Muscle Activity of the Lower Extremities?,dominant quadriceps,0.18788562289474758,5
+2017,170,Do Compression Socks Influence Muscle Activity of the Lower Extremities?,in isokinetic,0.1796241405780475,5
+2017,171,Focused Interventions for Special Populations,specialization,0.39453342053894264,5
+2017,171,Focused Interventions for Special Populations,anterior reach,0.23282808580814415,5
+2017,171,Focused Interventions for Special Populations,asymmetry,0.20752117976222936,5
+2017,171,Focused Interventions for Special Populations,reach,0.18991036830522215,5
+2017,171,Focused Interventions for Special Populations,balance,0.17651397734862484,5
+2017,172,Countermovement Jump Kinetics and Performance Changes from 1st to 4th year in Division I Collegiate Athletes,min,0.38986406998863243,5
+2017,172,Countermovement Jump Kinetics and Performance Changes from 1st to 4th year in Division I Collegiate Athletes,recovery,0.21283421645694486,5
+2017,172,Countermovement Jump Kinetics and Performance Changes from 1st to 4th year in Division I Collegiate Athletes,cmj,0.18906735440346273,5
+2017,172,Countermovement Jump Kinetics and Performance Changes from 1st to 4th year in Division I Collegiate Athletes,intervals,0.15525279709693754,5
+2017,172,Countermovement Jump Kinetics and Performance Changes from 1st to 4th year in Division I Collegiate Athletes,young soccer,0.15131373198362033,5
+2017,173,An Evaluation of Star Excursion Balance Test In Identifying Athletes At Risk For Injury,peak trunk,0.2438505063175482,5
+2017,173,An Evaluation of Star Excursion Balance Test In Identifying Athletes At Risk For Injury,trunk,0.237045027293345,5
+2017,173,An Evaluation of Star Excursion Balance Test In Identifying Athletes At Risk For Injury,risk,0.22144758540805387,5
+2017,173,An Evaluation of Star Excursion Balance Test In Identifying Athletes At Risk For Injury,biomechanical neuromuscular,0.15920291923950547,2
+2017,173,An Evaluation of Star Excursion Balance Test In Identifying Athletes At Risk For Injury,profile,0.12985669200130256,5
+2017,174,Knee Joint-Specific Eccentric Utilization Ratio Determines Lower-Extremity Stretch-Shortening Cycle Function During Countermovement Jumps,deep,0.25461634016277096,5
+2017,174,Knee Joint-Specific Eccentric Utilization Ratio Determines Lower-Extremity Stretch-Shortening Cycle Function During Countermovement Jumps,knee joints,0.22568590905057342,5
+2017,174,Knee Joint-Specific Eccentric Utilization Ratio Determines Lower-Extremity Stretch-Shortening Cycle Function During Countermovement Jumps,medial collateral,0.21886410021232305,2
+2017,174,Knee Joint-Specific Eccentric Utilization Ratio Determines Lower-Extremity Stretch-Shortening Cycle Function During Countermovement Jumps,collateral,0.21886410021232305,2
+2017,174,Knee Joint-Specific Eccentric Utilization Ratio Determines Lower-Extremity Stretch-Shortening Cycle Function During Countermovement Jumps,of knee,0.20194343680004984,5
+2017,175,Knee Biomechanics in Division III Female Soccer Players with Reconstructed Anterior Cruciate Ligament (ACLR),goals,0.34239546636801493,5
+2017,175,Knee Biomechanics in Division III Female Soccer Players with Reconstructed Anterior Cruciate Ligament (ACLR),networks,0.33366084039922067,5
+2017,175,Knee Biomechanics in Division III Female Soccer Players with Reconstructed Anterior Cruciate Ligament (ACLR),scored,0.24361799492096833,5
+2017,175,Knee Biomechanics in Division III Female Soccer Players with Reconstructed Anterior Cruciate Ligament (ACLR),passing,0.23529805403416124,5
+2017,175,Knee Biomechanics in Division III Female Soccer Players with Reconstructed Anterior Cruciate Ligament (ACLR),scored by,0.2239194679534439,5
+2017,176,Validation of a Modified Functional Movement Screen Test for Division III Female Soccer Players,dr,0.4015477205932331,5
+2017,176,Validation of a Modified Functional Movement Screen Test for Division III Female Soccer Players,to disclose,0.2771711159773867,5
+2017,176,Validation of a Modified Functional Movement Screen Test for Division III Female Soccer Players,disclose,0.2771711159773867,5
+2017,176,Validation of a Modified Functional Movement Screen Test for Division III Female Soccer Players,nfl,0.27245739266243957,5
+2017,176,Validation of a Modified Functional Movement Screen Test for Division III Female Soccer Players,former,0.25847508790892876,5
+2017,177,Pelvic Pain In A Soccer Player- Soccer,tape,0.4072017221473513,5
+2017,177,Pelvic Pain In A Soccer Player- Soccer,kt,0.3046443127480184,5
+2017,177,Pelvic Pain In A Soccer Player- Soccer,fatigue,0.2556927712876736,5
+2017,177,Pelvic Pain In A Soccer Player- Soccer,no tape,0.25555813031565067,5
+2017,177,Pelvic Pain In A Soccer Player- Soccer,kinesiology,0.17037208687710045,5
+2017,178,Modeling of ACL Injury Mechanism,ir,0.2459612402402091,5
+2017,178,Modeling of ACL Injury Mechanism,intervention,0.24400098047728896,5
+2017,178,Modeling of ACL Injury Mechanism,versus,0.2036591250467838,5
+2017,178,Modeling of ACL Injury Mechanism,group,0.19469443762941982,5
+2017,178,Modeling of ACL Injury Mechanism,acl,0.19457882201262527,6
+2017,179,Effects of Lumbar Spine Position on Hamstring Flexibility During Passive Straight Leg Raise,in players,0.2675382856715346,5
+2017,179,Effects of Lumbar Spine Position on Hamstring Flexibility During Passive Straight Leg Raise,vs,0.2586795662254695,5
+2017,179,Effects of Lumbar Spine Position on Hamstring Flexibility During Passive Straight Leg Raise,wall,0.22762716743038844,5
+2017,179,Effects of Lumbar Spine Position on Hamstring Flexibility During Passive Straight Leg Raise,ste,0.1697337470714173,4
+2017,179,Effects of Lumbar Spine Position on Hamstring Flexibility During Passive Straight Leg Raise,vs controls,0.1697337470714173,5
+2017,180,Impact Control in High-Intensity Interval Training Can Be Improved by Creatine Supplementation,experiment,0.3135700136202561,5
+2017,180,Impact Control in High-Intensity Interval Training Can Be Improved by Creatine Supplementation,postural,0.2772227213665134,2
+2017,180,Impact Control in High-Intensity Interval Training Can Be Improved by Creatine Supplementation,stable,0.24415942623392295,4
+2017,180,Impact Control in High-Intensity Interval Training Can Be Improved by Creatine Supplementation,in adults,0.2268684836186664,5
+2017,180,Impact Control in High-Intensity Interval Training Can Be Improved by Creatine Supplementation,postural stability,0.21421294935764928,2
+2017,181,Interseason variability in isokinetic strength and poor correlation with Nordic hamstring eccentric strength in football players,return to,0.23575060834340852,5
+2017,181,Interseason variability in isokinetic strength and poor correlation with Nordic hamstring eccentric strength in football players,return,0.23074524724676773,5
+2017,181,Interseason variability in isokinetic strength and poor correlation with Nordic hamstring eccentric strength in football players,quantitative,0.18736100846507564,5
+2017,181,Interseason variability in isokinetic strength and poor correlation with Nordic hamstring eccentric strength in football players,reinjuries,0.17534170573221616,6
+2017,181,Interseason variability in isokinetic strength and poor correlation with Nordic hamstring eccentric strength in football players,unrestricted,0.17534170573221616,5
+2017,182,"Brain Motion, Deformation, and Potential Injury During Soccer Heading",head,0.29666972291785026,5
+2017,182,"Brain Motion, Deformation, and Potential Injury During Soccer Heading",impact,0.2151629325818887,5
+2017,182,"Brain Motion, Deformation, and Potential Injury During Soccer Heading",head impact,0.1916356972257455,5
+2017,182,"Brain Motion, Deformation, and Potential Injury During Soccer Heading",men,0.1799697159410025,5
+2017,182,"Brain Motion, Deformation, and Potential Injury During Soccer Heading",impacts,0.17434491160332477,5
+2017,183,Detection of Persisting Concussion Effects on Neuromechanical Responsiveness,ct,0.2776021231134122,5
+2017,183,Detection of Persisting Concussion Effects on Neuromechanical Responsiveness,ski,0.18629851688896867,5
+2017,183,Detection of Persisting Concussion Effects on Neuromechanical Responsiveness,t1,0.1781068209029066,5
+2017,183,Detection of Persisting Concussion Effects on Neuromechanical Responsiveness,mp,0.1781068209029066,5
+2017,183,Detection of Persisting Concussion Effects on Neuromechanical Responsiveness,rt,0.17175284785885253,5
+2017,184,Effect of Soccer Foot Pressure on Pressure Distributions,contact sports,0.23643672298536428,5
+2017,184,Effect of Soccer Foot Pressure on Pressure Distributions,connectivity,0.22428239803154798,5
+2017,184,Effect of Soccer Foot Pressure on Pressure Distributions,sub concussive,0.20873578917446337,3
+2017,184,Effect of Soccer Foot Pressure on Pressure Distributions,functional connectivity,0.18814462606121898,2
+2017,184,Effect of Soccer Foot Pressure on Pressure Distributions,concussive,0.17811888386196534,5
+2017,185,Using the Disclosure Decision-Making Model to Understand High School Football Players’ Disclosures of Concussion Symptoms,composite,0.23716058670079318,5
+2017,185,Using the Disclosure Decision-Making Model to Understand High School Football Players’ Disclosures of Concussion Symptoms,fms composite,0.23674305709740562,5
+2017,185,Using the Disclosure Decision-Making Model to Understand High School Football Players’ Disclosures of Concussion Symptoms,fms,0.23322495059655127,5
+2017,185,Using the Disclosure Decision-Making Model to Understand High School Football Players’ Disclosures of Concussion Symptoms,of association,0.16974995550656063,5
+2017,185,Using the Disclosure Decision-Making Model to Understand High School Football Players’ Disclosures of Concussion Symptoms,between fms,0.1587461315904925,5
+2017,186,From microscopic to macroscopic sports injuries. Applying the complex dynamic systems approach to sports medicine: a narrative review,dvj,0.30893655160532907,5
+2017,186,From microscopic to macroscopic sports injuries. Applying the complex dynamic systems approach to sports medicine: a narrative review,hip,0.30523612142119383,5
+2017,186,From microscopic to macroscopic sports injuries. Applying the complex dynamic systems approach to sports medicine: a narrative review,during dvj,0.24449469754679956,5
+2017,186,From microscopic to macroscopic sports injuries. Applying the complex dynamic systems approach to sports medicine: a narrative review,strategy,0.21709366317324091,4
+2017,186,From microscopic to macroscopic sports injuries. Applying the complex dynamic systems approach to sports medicine: a narrative review,sll,0.21216067207278283,5
+2017,187,Is the message getting through? Awareness and use of the 11+ injury prevention programme in amateur level football clubs,bone,0.49622882425246684,5
+2017,187,Is the message getting through? Awareness and use of the 11+ injury prevention programme in amateur level football clubs,intensities,0.2277935396439555,5
+2017,187,Is the message getting through? Awareness and use of the 11+ injury prevention programme in amateur level football clubs,training,0.2143308835210701,5
+2017,187,Is the message getting through? Awareness and use of the 11+ injury prevention programme in amateur level football clubs,elevated peak,0.15186235976263698,5
+2017,187,Is the message getting through? Awareness and use of the 11+ injury prevention programme in amateur level football clubs,interval training,0.14518484936869802,5
+2017,188,A biomechanical comparison of dominant and non-dominant limbs during a side-step cutting task,ankle sprain,0.2661468258637199,1
+2017,188,A biomechanical comparison of dominant and non-dominant limbs during a side-step cutting task,sprain,0.2624759391225134,5
+2017,188,A biomechanical comparison of dominant and non-dominant limbs during a side-step cutting task,etiology,0.22186818463549407,5
+2017,188,A biomechanical comparison of dominant and non-dominant limbs during a side-step cutting task,asymmetrical,0.20748586312606476,2
+2017,188,A biomechanical comparison of dominant and non-dominant limbs during a side-step cutting task,lateral ankle,0.18598551739718144,1
+2017,189,Sport-specific biomechanical responses to an ACL injury prevention programme: A randomised controlled trial,session,0.30821679144399805,4
+2017,189,Sport-specific biomechanical responses to an ACL injury prevention programme: A randomised controlled trial,reliability,0.28025685411994317,4
+2017,189,Sport-specific biomechanical responses to an ACL injury prevention programme: A randomised controlled trial,session reliability,0.27388861403864323,4
+2017,189,Sport-specific biomechanical responses to an ACL injury prevention programme: A randomised controlled trial,trials,0.1983779352923518,5
+2017,189,Sport-specific biomechanical responses to an ACL injury prevention programme: A randomised controlled trial,icc,0.17092343226424578,5
+2017,190,Pengembangan aplikasi tes keterampilan sepakbola berbasis web,calf,0.48666961235554557,5
+2017,190,Pengembangan aplikasi tes keterampilan sepakbola berbasis web,future,0.15707141763583304,5
+2017,190,Pengembangan aplikasi tes keterampilan sepakbola berbasis web,strain,0.14104035814646892,4
+2017,190,Pengembangan aplikasi tes keterampilan sepakbola berbasis web,calf muscle,0.13979094130876699,5
+2017,190,Pengembangan aplikasi tes keterampilan sepakbola berbasis web,evidence,0.13063852204479517,5
+2017,191,Juvenile Osteochondritis Dissecans of the Trochlea: A Cohort Study of 34 Trochlear Lesions Associated With Sporting Activities That Load the Patellofemoral Joint,hamstring,0.23424130081316466,4
+2017,191,Juvenile Osteochondritis Dissecans of the Trochlea: A Cohort Study of 34 Trochlear Lesions Associated With Sporting Activities That Load the Patellofemoral Joint,muscle activity,0.22558285108460277,5
+2017,191,Juvenile Osteochondritis Dissecans of the Trochlea: A Cohort Study of 34 Trochlear Lesions Associated With Sporting Activities That Load the Patellofemoral Joint,during follow,0.22337070896437228,5
+2017,191,Juvenile Osteochondritis Dissecans of the Trochlea: A Cohort Study of 34 Trochlear Lesions Associated With Sporting Activities That Load the Patellofemoral Joint,follow up,0.19478006425541378,5
+2017,191,Juvenile Osteochondritis Dissecans of the Trochlea: A Cohort Study of 34 Trochlear Lesions Associated With Sporting Activities That Load the Patellofemoral Joint,gluteal,0.19383029656986336,2
+2017,192,Goalkeeping in the soccer penalty kick,events,0.19809543604805968,5
+2017,192,Goalkeeping in the soccer penalty kick,player,0.1844575011608363,5
+2017,192,Goalkeeping in the soccer penalty kick,attributes,0.17603611146246853,5
+2017,192,Goalkeeping in the soccer penalty kick,devices,0.16053810513678998,5
+2017,192,Goalkeeping in the soccer penalty kick,propose to,0.14382412261479413,5
+2017,193,Effects of Different Footwear Properties and Surface Instability on Neuromuscular Activity and Kinematics During Jumping,countermovement,0.21135359869054068,5
+2017,193,Effects of Different Footwear Properties and Surface Instability on Neuromuscular Activity and Kinematics During Jumping,jumpers,0.17603525461705402,5
+2017,193,Effects of Different Footwear Properties and Surface Instability on Neuromuscular Activity and Kinematics During Jumping,concentric phase,0.17603525461705402,5
+2017,193,Effects of Different Footwear Properties and Surface Instability on Neuromuscular Activity and Kinematics During Jumping,production during,0.17603525461705402,5
+2017,193,Effects of Different Footwear Properties and Surface Instability on Neuromuscular Activity and Kinematics During Jumping,during concentric,0.17603525461705402,5
+2017,194,Comparison of Static and Dynamic Balance at Different Levels of Sport Competition in Professional and Junior Elite Soccer Players,fatigue,0.3288415199338749,5
+2017,194,Comparison of Static and Dynamic Balance at Different Levels of Sport Competition in Professional and Junior Elite Soccer Players,of ball,0.29798483572741014,5
+2017,194,Comparison of Static and Dynamic Balance at Different Levels of Sport Competition in Professional and Junior Elite Soccer Players,speed of,0.2094029565274557,5
+2017,194,Comparison of Static and Dynamic Balance at Different Levels of Sport Competition in Professional and Junior Elite Soccer Players,ball,0.175342202218763,5
+2017,194,Comparison of Static and Dynamic Balance at Different Levels of Sport Competition in Professional and Junior Elite Soccer Players,meanwhile,0.1683371394979464,5
+2017,195,On using wearable tri-axial accelerometers to examine the striking phase kinematics of expert specialist drag flickers on-field,sprinting,0.34648022516708765,5
+2017,195,On using wearable tri-axial accelerometers to examine the striking phase kinematics of expert specialist drag flickers on-field,semg,0.2967585278575349,5
+2017,195,On using wearable tri-axial accelerometers to examine the striking phase kinematics of expert specialist drag flickers on-field,emg,0.2754999199442618,5
+2017,195,On using wearable tri-axial accelerometers to examine the striking phase kinematics of expert specialist drag flickers on-field,activations,0.15520369555119662,5
+2017,195,On using wearable tri-axial accelerometers to examine the striking phase kinematics of expert specialist drag flickers on-field,in sprinting,0.15520369555119662,5
+2017,196,Long-term effects of the 11+ warm-up injury prevention programme on physical performance in adolescent male football players: a cluster-randomised controlled trial,counting,0.5339518940236017,5
+2017,196,Long-term effects of the 11+ warm-up injury prevention programme on physical performance in adolescent male football players: a cluster-randomised controlled trial,landing,0.20708376270455386,5
+2017,196,Long-term effects of the 11+ warm-up injury prevention programme on physical performance in adolescent male football players: a cluster-randomised controlled trial,jump,0.17807485517452623,5
+2017,196,Long-term effects of the 11+ warm-up injury prevention programme on physical performance in adolescent male football players: a cluster-randomised controlled trial,tasks,0.1513888591029948,5
+2017,196,Long-term effects of the 11+ warm-up injury prevention programme on physical performance in adolescent male football players: a cluster-randomised controlled trial,jump landing,0.14565943031099415,5
+2017,197,Risk factors associated with self-reported injury history in female youth soccer players,resilience,0.3977067651174492,5
+2017,197,Risk factors associated with self-reported injury history in female youth soccer players,midsole,0.21726815886528159,5
+2017,197,Risk factors associated with self-reported injury history in female youth soccer players,shoe,0.19756558970483223,5
+2017,197,Risk factors associated with self-reported injury history in female youth soccer players,features,0.18212945225508412,4
+2017,197,Risk factors associated with self-reported injury history in female youth soccer players,upper,0.15503006716488726,5
+2017,198,Keeping athletes on the field: preventing primary and secondary ACL injuries,arm,0.5111173847346541,5
+2017,198,Keeping athletes on the field: preventing primary and secondary ACL injuries,arm swing,0.41378837926261336,5
+2017,198,Keeping athletes on the field: preventing primary and secondary ACL injuries,swing,0.34896993883047656,5
+2017,198,Keeping athletes on the field: preventing primary and secondary ACL injuries,running,0.2351182410806188,5
+2017,198,Keeping athletes on the field: preventing primary and secondary ACL injuries,running one,0.20569850514681529,5
+2017,199,Does variability within natural turfgrass sports fields influence ground‐derived injuries?,shoe,0.3725169839805687,5
+2017,199,Does variability within natural turfgrass sports fields influence ground‐derived injuries?,cleat,0.2546818703408318,5
+2017,199,Does variability within natural turfgrass sports fields influence ground‐derived injuries?,turf,0.20505164259687567,5
+2017,199,Does variability within natural turfgrass sports fields influence ground‐derived injuries?,forefoot,0.17810909319727214,5
+2017,199,Does variability within natural turfgrass sports fields influence ground‐derived injuries?,loading,0.1629106085695948,5
+2017,200,Lower Extremity Biomechanics During a Drop-Vertical Jump in Participants With or Without Chronic Ankle Instability,low contact,0.25457298641045256,5
+2017,200,Lower Extremity Biomechanics During a Drop-Vertical Jump in Participants With or Without Chronic Ankle Instability,neuropsychological,0.21640868146045367,2
+2017,200,Lower Extremity Biomechanics During a Drop-Vertical Jump in Participants With or Without Chronic Ankle Instability,contact,0.18506298174550292,5
+2017,200,Lower Extremity Biomechanics During a Drop-Vertical Jump in Participants With or Without Chronic Ankle Instability,high contact,0.16971532427363506,5
+2017,200,Lower Extremity Biomechanics During a Drop-Vertical Jump in Participants With or Without Chronic Ankle Instability,neuropsychological test,0.16971532427363506,2
+2017,201,A multilateral modelling of Youth Soccer Performance Index (YSPI),vo2max,0.41170901170083396,5
+2017,201,A multilateral modelling of Youth Soccer Performance Index (YSPI),treadmill,0.4082874256060745,4
+2017,201,A multilateral modelling of Youth Soccer Performance Index (YSPI),on treadmill,0.27515468297422546,4
+2017,201,A multilateral modelling of Youth Soccer Performance Index (YSPI),values,0.2551534602172823,5
+2017,201,A multilateral modelling of Youth Soccer Performance Index (YSPI),determined,0.22159623594669342,5
+2017,202,"The effects of ""Prevent Injury and Enhance Performance Program"" in a female soccer team",intervention,0.23790750527437762,5
+2017,202,"The effects of ""Prevent Injury and Enhance Performance Program"" in a female soccer team",biomechanically,0.21018623662031719,2
+2017,202,"The effects of ""Prevent Injury and Enhance Performance Program"" in a female soccer team",training,0.1935490492103035,5
+2017,202,"The effects of ""Prevent Injury and Enhance Performance Program"" in a female soccer team",informed,0.19183083286069627,5
+2017,202,"The effects of ""Prevent Injury and Enhance Performance Program"" in a female soccer team",community,0.18840606959253284,5
+2017,203,"The role of anthropometric, growth and maturity index (AGaMI) influencing youth soccer relative performance",ats,0.37492752883381514,5
+2017,203,"The role of anthropometric, growth and maturity index (AGaMI) influencing youth soccer relative performance",fibre,0.3494631982397908,5
+2017,203,"The role of anthropometric, growth and maturity index (AGaMI) influencing youth soccer relative performance",tibia,0.2203328131865876,4
+2017,203,"The role of anthropometric, growth and maturity index (AGaMI) influencing youth soccer relative performance",speed,0.193959964206537,5
+2017,203,"The role of anthropometric, growth and maturity index (AGaMI) influencing youth soccer relative performance",attenuation,0.19330685135400835,5
+2017,204,"Current Soccer Footwear, Its Role in Injuries and Potential for Improvement",autonomic,0.34780336553294067,5
+2017,204,"Current Soccer Footwear, Its Role in Injuries and Potential for Improvement",biofeedback,0.23321671819837883,5
+2017,204,"Current Soccer Footwear, Its Role in Injuries and Potential for Improvement",visual,0.22906548332616772,2
+2017,204,"Current Soccer Footwear, Its Role in Injuries and Potential for Improvement",attention,0.18521427409387076,5
+2017,204,"Current Soccer Footwear, Its Role in Injuries and Potential for Improvement",injury prevention,0.17528872464364648,6
+2017,205,The NFL’s Chop-Block Rule Change: Does It Prevent Knee Injuries in Defensive Players?,fms,0.41659794967643954,5
+2017,205,The NFL’s Chop-Block Rule Change: Does It Prevent Knee Injuries in Defensive Players?,rast,0.26430135351792483,5
+2017,205,The NFL’s Chop-Block Rule Change: Does It Prevent Knee Injuries in Defensive Players?,fms scores,0.2363001641780723,4
+2017,205,The NFL’s Chop-Block Rule Change: Does It Prevent Knee Injuries in Defensive Players?,significant negative,0.19822601513844362,5
+2017,205,The NFL’s Chop-Block Rule Change: Does It Prevent Knee Injuries in Defensive Players?,scores,0.17278248622502085,4
+2017,206,Restrictions in the Ankle Sagittal- and Frontal-Plane Range of Movement during Simulated Walking with Different Types of Orthoses,routines,0.21599888202132703,5
+2017,206,Restrictions in the Ankle Sagittal- and Frontal-Plane Range of Movement during Simulated Walking with Different Types of Orthoses,on how,0.19667377368142372,5
+2017,206,Restrictions in the Ankle Sagittal- and Frontal-Plane Range of Movement during Simulated Walking with Different Types of Orthoses,of these,0.18286722412722786,5
+2017,206,Restrictions in the Ankle Sagittal- and Frontal-Plane Range of Movement during Simulated Walking with Different Types of Orthoses,article,0.16603269681510505,5
+2017,206,Restrictions in the Ankle Sagittal- and Frontal-Plane Range of Movement during Simulated Walking with Different Types of Orthoses,pre,0.1650755675212294,5
+2017,207,Skin temperature in youth soccer players with functional equinus and non‐equinus condition after running,fact that,0.21023916713525548,5
+2017,207,Skin temperature in youth soccer players with functional equinus and non‐equinus condition after running,static,0.19694563068848017,4
+2017,207,Skin temperature in youth soccer players with functional equinus and non‐equinus condition after running,fact,0.1787211659517087,5
+2017,207,Skin temperature in youth soccer players with functional equinus and non‐equinus condition after running,static balance,0.1749363218049617,4
+2017,207,Skin temperature in youth soccer players with functional equinus and non‐equinus condition after running,balance,0.15416328401245877,5
+2017,208,Brain-Behavior Mechanisms for the Transfer of Neuromuscular Training Adaptions to Simulated Sport: Initial Findings From the Train the Brain Project,ci times,0.2655867591027112,5
+2017,208,Brain-Behavior Mechanisms for the Transfer of Neuromuscular Training Adaptions to Simulated Sport: Initial Findings From the Train the Brain Project,ci,0.2543716949297068,5
+2017,208,Brain-Behavior Mechanisms for the Transfer of Neuromuscular Training Adaptions to Simulated Sport: Initial Findings From the Train the Brain Project,ci ci,0.1991900693270334,5
+2017,208,Brain-Behavior Mechanisms for the Transfer of Neuromuscular Training Adaptions to Simulated Sport: Initial Findings From the Train the Brain Project,strains,0.1976339540294642,4
+2017,208,Brain-Behavior Mechanisms for the Transfer of Neuromuscular Training Adaptions to Simulated Sport: Initial Findings From the Train the Brain Project,men,0.16585889929598513,5
+2017,209,"Polar Coordinate Analysis of Relationships With Teammates, Areas of the Pitch, and Dynamic Play in Soccer: A Study of Xabi Alonso",pap,0.4026796850381704,5
+2017,209,"Polar Coordinate Analysis of Relationships With Teammates, Areas of the Pitch, and Dynamic Play in Soccer: A Study of Xabi Alonso",cod speed,0.2887301509775695,5
+2017,209,"Polar Coordinate Analysis of Relationships With Teammates, Areas of the Pitch, and Dynamic Play in Soccer: A Study of Xabi Alonso",cod,0.24643350722502355,5
+2017,209,"Polar Coordinate Analysis of Relationships With Teammates, Areas of the Pitch, and Dynamic Play in Soccer: A Study of Xabi Alonso",are provided,0.2013398425190852,5
+2017,209,"Polar Coordinate Analysis of Relationships With Teammates, Areas of the Pitch, and Dynamic Play in Soccer: A Study of Xabi Alonso",literature regarding,0.2013398425190852,5
+2017,210,Long-standing groin pain in an elite athlete: usefulness of ultrasound in differential diagnosis and patient education – a case report,heading,0.2616644565571673,5
+2017,210,Long-standing groin pain in an elite athlete: usefulness of ultrasound in differential diagnosis and patient education – a case report,football,0.20178872193649267,5
+2017,210,Long-standing groin pain in an elite athlete: usefulness of ultrasound in differential diagnosis and patient education – a case report,head,0.18719009419869537,5
+2017,210,Long-standing groin pain in an elite athlete: usefulness of ultrasound in differential diagnosis and patient education – a case report,impact severity,0.17611788075699364,5
+2017,210,Long-standing groin pain in an elite athlete: usefulness of ultrasound in differential diagnosis and patient education – a case report,of repetitive,0.16745617864961335,5
+2017,211,Clinical Efficacy of Jump Training Augmented With Body Weight Support After ACL Reconstruction: A Randomized Controlled Trial,preventive,0.30523422593861116,5
+2017,211,Clinical Efficacy of Jump Training Augmented With Body Weight Support After ACL Reconstruction: A Randomized Controlled Trial,medicine,0.21862184156167752,5
+2017,211,Clinical Efficacy of Jump Training Augmented With Body Weight Support After ACL Reconstruction: A Randomized Controlled Trial,implementation of,0.1651610535333638,5
+2017,211,Clinical Efficacy of Jump Training Augmented With Body Weight Support After ACL Reconstruction: A Randomized Controlled Trial,implementation,0.14874492028335207,5
+2017,211,Clinical Efficacy of Jump Training Augmented With Body Weight Support After ACL Reconstruction: A Randomized Controlled Trial,sports medicine,0.13939320736255925,5
+2017,212,Muscle Strength Is a Poor Screening Test for Predicting Lower Extremity Injuries in Professional Male Soccer Players: A 2-Year Prospective Cohort Study,gt lt,0.6092829326250015,5
+2017,212,Muscle Strength Is a Poor Screening Test for Predicting Lower Extremity Injuries in Professional Male Soccer Players: A 2-Year Prospective Cohort Study,gt,0.563558771500386,5
+2017,212,Muscle Strength Is a Poor Screening Test for Predicting Lower Extremity Injuries in Professional Male Soccer Players: A 2-Year Prospective Cohort Study,lt,0.43793072624072876,5
+2017,212,Muscle Strength Is a Poor Screening Test for Predicting Lower Extremity Injuries in Professional Male Soccer Players: A 2-Year Prospective Cohort Study,lt gt,0.19240513661842157,5
+2017,212,Muscle Strength Is a Poor Screening Test for Predicting Lower Extremity Injuries in Professional Male Soccer Players: A 2-Year Prospective Cohort Study,strong,0.15938331744352957,4
+2017,213,Mitigating Sports Injury Risks Using Internet of Things and Analytics Approaches,dominant,0.39877947689787946,5
+2017,213,Mitigating Sports Injury Risks Using Internet of Things and Analytics Approaches,leg,0.29325884815304004,5
+2017,213,Mitigating Sports Injury Risks Using Internet of Things and Analytics Approaches,dominant leg,0.2923093431585901,5
+2017,213,Mitigating Sports Injury Risks Using Internet of Things and Analytics Approaches,non dominant,0.22038300103839278,5
+2017,213,Mitigating Sports Injury Risks Using Internet of Things and Analytics Approaches,non,0.17110227740725945,5
+2017,214,Impact of Official Matches on Soccer Referees’ Power Performance,puberty,0.27866819595841913,5
+2017,214,Impact of Official Matches on Soccer Referees’ Power Performance,categories,0.2654586344166278,5
+2017,214,Impact of Official Matches on Soccer Referees’ Power Performance,among,0.16982651112181155,5
+2017,214,Impact of Official Matches on Soccer Referees’ Power Performance,years,0.16411600387997424,5
+2017,214,Impact of Official Matches on Soccer Referees’ Power Performance,rsa,0.15113423811709487,5
+2017,215,Concussion in sport: the importance of accurate and reliable discharge advice,therapies,0.36922956227326426,5
+2017,215,Concussion in sport: the importance of accurate and reliable discharge advice,elite sports,0.19310579879636056,5
+2017,215,Concussion in sport: the importance of accurate and reliable discharge advice,innovative,0.17802863616515133,5
+2017,215,Concussion in sport: the importance of accurate and reliable discharge advice,some,0.1616934894296282,5
+2017,215,Concussion in sport: the importance of accurate and reliable discharge advice,elite,0.13715253243285552,5
+2017,216,A Novel Musculoskeletal Imbalance Identification Mechanism for Lower Body Analyzing Gait Cycle by Motion Tracking,biofeedback,0.45429665345696757,5
+2017,216,A Novel Musculoskeletal Imbalance Identification Mechanism for Lower Body Analyzing Gait Cycle by Motion Tracking,training,0.19721602699624552,5
+2017,216,A Novel Musculoskeletal Imbalance Identification Mechanism for Lower Body Analyzing Gait Cycle by Motion Tracking,preventive training,0.15243902283138866,5
+2017,216,A Novel Musculoskeletal Imbalance Identification Mechanism for Lower Body Analyzing Gait Cycle by Motion Tracking,focused,0.13277291526465448,5
+2017,216,A Novel Musculoskeletal Imbalance Identification Mechanism for Lower Body Analyzing Gait Cycle by Motion Tracking,training intervention,0.12684183597678378,5
+2017,217,Kicking Performance in Young U9 to U20 Soccer Players: Assessment of Velocity and Accuracy Simultaneously,subsequent,0.3313195390923846,3
+2017,217,Kicking Performance in Young U9 to U20 Soccer Players: Assessment of Velocity and Accuracy Simultaneously,of initial,0.31172794788125585,4
+2017,217,Kicking Performance in Young U9 to U20 Soccer Players: Assessment of Velocity and Accuracy Simultaneously,rate,0.28114689552386746,5
+2017,217,Kicking Performance in Young U9 to U20 Soccer Players: Assessment of Velocity and Accuracy Simultaneously,rate of,0.2740844000890915,5
+2017,217,Kicking Performance in Young U9 to U20 Soccer Players: Assessment of Velocity and Accuracy Simultaneously,initial,0.2532386095486337,4
+2017,218,"Effect of Muscular Strength, Asymmetries and Fatigue on Kicking Performance in Soccer Players",lbp,0.6260590440816928,5
+2017,218,"Effect of Muscular Strength, Asymmetries and Fatigue on Kicking Performance in Soccer Players",in athletes,0.23076118696319164,5
+2017,218,"Effect of Muscular Strength, Asymmetries and Fatigue on Kicking Performance in Soccer Players",polymorphism,0.201241448256941,5
+2017,218,"Effect of Muscular Strength, Asymmetries and Fatigue on Kicking Performance in Soccer Players",athletes,0.1789884521687678,5
+2017,218,"Effect of Muscular Strength, Asymmetries and Fatigue on Kicking Performance in Soccer Players",allele,0.1565147610204232,5
+2017,219,Does the type of sport practised influence foot posture and knee angle? Differences between footballers and swimmers,bone,0.281128666605645,5
+2017,219,Does the type of sport practised influence foot posture and knee angle? Differences between footballers and swimmers,sections,0.24675485050177795,5
+2017,219,Does the type of sport practised influence foot posture and knee angle? Differences between footballers and swimmers,bone properties,0.19357791486001227,1
+2017,219,Does the type of sport practised influence foot posture and knee angle? Differences between footballers and swimmers,anatomically,0.18506613787633347,5
+2017,219,Does the type of sport practised influence foot posture and knee angle? Differences between footballers and swimmers,properties,0.17774904865888766,1
+2017,220,POSTURAL CONTROL ANALYSIS DURING A STANDARDIZED KICK TASK IN SOCCER ATHLETES,grafts,0.5556699940469213,5
+2017,220,POSTURAL CONTROL ANALYSIS DURING A STANDARDIZED KICK TASK IN SOCCER ATHLETES,graft,0.4384015735541051,5
+2017,220,POSTURAL CONTROL ANALYSIS DURING A STANDARDIZED KICK TASK IN SOCCER ATHLETES,pt,0.26785853014128264,5
+2017,220,POSTURAL CONTROL ANALYSIS DURING A STANDARDIZED KICK TASK IN SOCCER ATHLETES,of graft,0.1307458809522168,5
+2017,220,POSTURAL CONTROL ANALYSIS DURING A STANDARDIZED KICK TASK IN SOCCER ATHLETES,failure,0.13069923051892676,5
+2017,221,Comparison of Kinematical variables of In-Step Kick in Football with the accordance of Skill level,shoe,0.36844100256338685,5
+2017,221,Comparison of Kinematical variables of In-Step Kick in Football with the accordance of Skill level,piece,0.22704649808988514,5
+2017,221,Comparison of Kinematical variables of In-Step Kick in Football with the accordance of Skill level,equipment,0.1735885055266254,5
+2017,221,Comparison of Kinematical variables of In-Step Kick in Football with the accordance of Skill level,protective,0.16685071839355428,5
+2017,221,Comparison of Kinematical variables of In-Step Kick in Football with the accordance of Skill level,protective equipment,0.15136433205992342,5
+2017,222,Quadriceps Strength Deficit at 6 Months After ACL Reconstruction Does Not Predict Return to Preinjury Sports Level,acl,0.2976372442353282,6
+2017,222,Quadriceps Strength Deficit at 6 Months After ACL Reconstruction Does Not Predict Return to Preinjury Sports Level,acl injury,0.27099833740825346,6
+2017,222,Quadriceps Strength Deficit at 6 Months After ACL Reconstruction Does Not Predict Return to Preinjury Sports Level,risk,0.16888902995064306,5
+2017,222,Quadriceps Strength Deficit at 6 Months After ACL Reconstruction Does Not Predict Return to Preinjury Sports Level,injury,0.16093550294915565,6
+2017,222,Quadriceps Strength Deficit at 6 Months After ACL Reconstruction Does Not Predict Return to Preinjury Sports Level,term,0.1465432572314935,5
+2017,223,Normal Variability of Weekly Musculoskeletal Screening Scores and the Influence of Training Load across an Australian Football League Season,rom,0.3504378897607057,5
+2017,223,Normal Variability of Weekly Musculoskeletal Screening Scores and the Influence of Training Load across an Australian Football League Season,movement trajectories,0.24939461656963352,5
+2017,223,Normal Variability of Weekly Musculoskeletal Screening Scores and the Influence of Training Load across an Australian Football League Season,trajectories,0.23842853421098265,5
+2017,223,Normal Variability of Weekly Musculoskeletal Screening Scores and the Influence of Training Load across an Australian Football League Season,submaximal,0.22992257990990742,3
+2017,223,Normal Variability of Weekly Musculoskeletal Screening Scores and the Influence of Training Load across an Australian Football League Season,kicking,0.20473997661681434,5
+2017,224,Quantifying the association between white matter integrity changes and subconcussive head impact exposure from a single season of youth and high school football using 3D convolutional neural networks,norm,0.4093716928140149,5
+2017,224,Quantifying the association between white matter integrity changes and subconcussive head impact exposure from a single season of youth and high school football using 3D convolutional neural networks,2n,0.2569199950039628,5
+2017,224,Quantifying the association between white matter integrity changes and subconcussive head impact exposure from a single season of youth and high school football using 3D convolutional neural networks,sprint,0.2310526313859089,5
+2017,224,Quantifying the association between white matter integrity changes and subconcussive head impact exposure from a single season of youth and high school football using 3D convolutional neural networks,reaction time,0.20589848757502557,5
+2017,224,Quantifying the association between white matter integrity changes and subconcussive head impact exposure from a single season of youth and high school football using 3D convolutional neural networks,sprint time,0.19642830146180004,5
+2017,225,Intermittent Treadmill Running Induces Kinematic Compensations to Maintain Soccer Kick Foot Speed Despite No Change in Knee Extensor Strength,pla,0.398826542354237,5
+2017,225,Intermittent Treadmill Running Induces Kinematic Compensations to Maintain Soccer Kick Foot Speed Despite No Change in Knee Extensor Strength,ranged to,0.22790088134527828,5
+2017,225,Intermittent Treadmill Running Induces Kinematic Compensations to Maintain Soccer Kick Foot Speed Despite No Change in Knee Extensor Strength,ranged,0.19811014094501628,5
+2017,225,Intermittent Treadmill Running Induces Kinematic Compensations to Maintain Soccer Kick Foot Speed Despite No Change in Knee Extensor Strength,tests,0.19208118974480198,5
+2017,225,Intermittent Treadmill Running Induces Kinematic Compensations to Maintain Soccer Kick Foot Speed Despite No Change in Knee Extensor Strength,krad,0.17724903238898135,5
+2017,226,Influence of age on the anthropometric and performance characteristics of high-level youth female soccer players,h3,0.6715330146290767,5
+2017,226,Influence of age on the anthropometric and performance characteristics of high-level youth female soccer players,kicking leg,0.11945071022883402,5
+2017,226,Influence of age on the anthropometric and performance characteristics of high-level youth female soccer players,adaptations,0.11037845876646157,5
+2017,226,Influence of age on the anthropometric and performance characteristics of high-level youth female soccer players,static,0.10284991764247362,4
+2017,226,Influence of age on the anthropometric and performance characteristics of high-level youth female soccer players,leg,0.10066999983021582,5
+2017,227,A Movement Analysis System based on Immersive Virtual Reality and Wearable Technology for Sport Training,fs,0.4012079662658724,5
+2017,227,A Movement Analysis System based on Immersive Virtual Reality and Wearable Technology for Sport Training,fatigue,0.3311709579349554,5
+2017,227,A Movement Analysis System based on Immersive Virtual Reality and Wearable Technology for Sport Training,functional fatigue,0.2006039831329362,2
+2017,227,A Movement Analysis System based on Immersive Virtual Reality and Wearable Technology for Sport Training,fast fp,0.1917832642627076,5
+2017,227,A Movement Analysis System based on Immersive Virtual Reality and Wearable Technology for Sport Training,knee,0.19066858448241675,5
+2017,228,Evaluation of Goal Scoring Patterns Between the 2016 Copa America and the 2016 European Championship,pkam,0.398784370267333,5
+2017,228,Evaluation of Goal Scoring Patterns Between the 2016 Copa America and the 2016 European Championship,season,0.2893927423394564,5
+2017,228,Evaluation of Goal Scoring Patterns Between the 2016 Copa America and the 2016 European Championship,off season,0.24034856907709182,5
+2017,228,Evaluation of Goal Scoring Patterns Between the 2016 Copa America and the 2016 European Championship,covariate,0.1993921851336665,5
+2017,228,Evaluation of Goal Scoring Patterns Between the 2016 Copa America and the 2016 European Championship,fifa11plus,0.18646684156639745,5
+2017,229,“The Early Specialised Bird Catches the Worm!” – A Specialised Sampling Model in the Development of Football Talents,scores,0.20109333722255548,4
+2017,229,“The Early Specialised Bird Catches the Worm!” – A Specialised Sampling Model in the Development of Football Talents,markers,0.19609483481105092,5
+2017,229,“The Early Specialised Bird Catches the Worm!” – A Specialised Sampling Model in the Development of Football Talents,physical markers,0.19225487769540098,2
+2017,229,“The Early Specialised Bird Catches the Worm!” – A Specialised Sampling Model in the Development of Football Talents,self,0.15007893515933723,5
+2017,229,“The Early Specialised Bird Catches the Worm!” – A Specialised Sampling Model in the Development of Football Talents,self management,0.14419115827155074,5
+2017,230,Brain tissue analysis of impacts to American football helmets,strain injury,0.30319962929467753,6
+2017,230,Brain tissue analysis of impacts to American football helmets,hamstring strain,0.2842112982038807,4
+2017,230,Brain tissue analysis of impacts to American football helmets,sprint test,0.25359283598363586,5
+2017,230,Brain tissue analysis of impacts to American football helmets,hamstring,0.23384703614105387,4
+2017,230,Brain tissue analysis of impacts to American football helmets,strain,0.22397875802996273,4
+2017,231,"Working towards More Effective Implementation, Dissemination and Scale-Up of Lower-Limb Injury-Prevention Programs: Insights from Community Australian Football Coaches",hamstring,0.24344350381564167,4
+2017,231,"Working towards More Effective Implementation, Dissemination and Scale-Up of Lower-Limb Injury-Prevention Programs: Insights from Community Australian Football Coaches",running,0.23025632439534552,5
+2017,231,"Working towards More Effective Implementation, Dissemination and Scale-Up of Lower-Limb Injury-Prevention Programs: Insights from Community Australian Football Coaches",sprinting,0.19273295886875436,5
+2017,231,"Working towards More Effective Implementation, Dissemination and Scale-Up of Lower-Limb Injury-Prevention Programs: Insights from Community Australian Football Coaches",overground,0.18570913464232616,5
+2017,231,"Working towards More Effective Implementation, Dissemination and Scale-Up of Lower-Limb Injury-Prevention Programs: Insights from Community Australian Football Coaches",treadmill,0.15309106959009783,4
+2017,232,Using Cartilage MRI T2-Mapping to Analyze Early Cartilage Degeneration in the Knee Joint of Young Professional Soccer Players,timing,0.27909534051380147,5
+2017,232,Using Cartilage MRI T2-Mapping to Analyze Early Cartilage Degeneration in the Knee Joint of Young Professional Soccer Players,frs,0.22787178973025263,5
+2017,232,Using Cartilage MRI T2-Mapping to Analyze Early Cartilage Degeneration in the Knee Joint of Young Professional Soccer Players,microcycle,0.22787178973025263,5
+2017,232,Using Cartilage MRI T2-Mapping to Analyze Early Cartilage Degeneration in the Knee Joint of Young Professional Soccer Players,training,0.18760394538144645,5
+2017,232,Using Cartilage MRI T2-Mapping to Analyze Early Cartilage Degeneration in the Knee Joint of Young Professional Soccer Players,rpe,0.18593850622005345,5
+2017,233,Discovery of a Sweet Spot on the Foot with a Smart Wearable Soccer Boot Sensor That Maximizes the Chances of Scoring a Curved Kick in Soccer,stop jump,0.32599644940809547,5
+2017,233,Discovery of a Sweet Spot on the Foot with a Smart Wearable Soccer Boot Sensor That Maximizes the Chances of Scoring a Curved Kick in Soccer,cutting,0.31088388093205244,5
+2017,233,Discovery of a Sweet Spot on the Foot with a Smart Wearable Soccer Boot Sensor That Maximizes the Chances of Scoring a Curved Kick in Soccer,stop,0.30486414621634905,5
+2017,233,Discovery of a Sweet Spot on the Foot with a Smart Wearable Soccer Boot Sensor That Maximizes the Chances of Scoring a Curved Kick in Soccer,jump cutting,0.292277191829916,5
+2017,233,Discovery of a Sweet Spot on the Foot with a Smart Wearable Soccer Boot Sensor That Maximizes the Chances of Scoring a Curved Kick in Soccer,cutting tasks,0.17963800213143724,5
+2017,234,The Trainability of Adolescent Soccer Players to Brief Periodized Complex Training,has,0.1859095750661754,5
+2017,234,The Trainability of Adolescent Soccer Players to Brief Periodized Complex Training,of sport,0.18195314198243,5
+2017,234,The Trainability of Adolescent Soccer Players to Brief Periodized Complex Training,performance enhancement,0.1267304915552799,5
+2017,234,The Trainability of Adolescent Soccer Players to Brief Periodized Complex Training,has now,0.1267304915552799,5
+2017,234,The Trainability of Adolescent Soccer Players to Brief Periodized Complex Training,book,0.1267304915552799,5
+2017,235,Wearing Electronic Performance and Tracking System Devices in Association Football: Potential Injury Scenarios and Associated Impact Energies,optimized,0.3333606496611869,5
+2017,235,Wearing Electronic Performance and Tracking System Devices in Association Football: Potential Injury Scenarios and Associated Impact Energies,subjects,0.2485933932766585,3
+2017,235,Wearing Electronic Performance and Tracking System Devices in Association Football: Potential Injury Scenarios and Associated Impact Energies,deficit,0.24796824596790737,5
+2017,235,Wearing Electronic Performance and Tracking System Devices in Association Football: Potential Injury Scenarios and Associated Impact Energies,all subjects,0.22160932218061405,3
+2017,235,Wearing Electronic Performance and Tracking System Devices in Association Football: Potential Injury Scenarios and Associated Impact Energies,training,0.1691487473627262,5
+2017,236,Measurement of Interaction between Futsal Footwear and Futsal Pitch Surface under Different Outsole Condition,helmet,0.37018087715875087,5
+2017,236,Measurement of Interaction between Futsal Footwear and Futsal Pitch Surface under Different Outsole Condition,helmet to,0.26217283146440323,5
+2017,236,Measurement of Interaction between Futsal Footwear and Futsal Pitch Surface under Different Outsole Condition,anticipation,0.18124791959825287,5
+2017,236,Measurement of Interaction between Futsal Footwear and Futsal Pitch Surface under Different Outsole Condition,concussions,0.15357757914304607,5
+2017,236,Measurement of Interaction between Futsal Footwear and Futsal Pitch Surface under Different Outsole Condition,game,0.1474648625938719,5
+2017,237,"Timing, not magnitude, of force may explain sex-dependent risk of ACL injury",shoe,0.3893526526442836,5
+2017,237,"Timing, not magnitude, of force may explain sex-dependent risk of ACL injury",footwear,0.19875414300952934,1
+2017,237,"Timing, not magnitude, of force may explain sex-dependent risk of ACL injury",influence,0.13891047205575013,5
+2017,237,"Timing, not magnitude, of force may explain sex-dependent risk of ACL injury",performance,0.11971717236169047,5
+2017,237,"Timing, not magnitude, of force may explain sex-dependent risk of ACL injury",outsole,0.11897867987758556,5
+2017,238,Is stiffness related to athletic groin pain?,sls,0.24174318984773777,5
+2017,238,Is stiffness related to athletic groin pain?,squat,0.21358163222990487,5
+2017,238,Is stiffness related to athletic groin pain?,features,0.20264614466892716,4
+2017,238,Is stiffness related to athletic groin pain?,set of,0.1467431836196419,5
+2017,238,Is stiffness related to athletic groin pain?,assessment,0.12596207627754022,4
+2017,239,Validity and reliability of GPS and LPS for measuring distances covered and sprint mechanical properties in team sports,dj,0.38669904080047535,5
+2017,239,Validity and reliability of GPS and LPS for measuring distances covered and sprint mechanical properties in team sports,fppa,0.3784569732008314,5
+2017,239,Validity and reliability of GPS and LPS for measuring distances covered and sprint mechanical properties in team sports,sll,0.3784569732008314,5
+2017,239,Validity and reliability of GPS and LPS for measuring distances covered and sprint mechanical properties in team sports,tasks,0.2637873200982824,5
+2017,239,Validity and reliability of GPS and LPS for measuring distances covered and sprint mechanical properties in team sports,sls,0.2584399392627537,5
+2017,240,Sports Concussion: A Clinical Overview,goalkeepers,0.3126432927648927,5
+2017,240,Sports Concussion: A Clinical Overview,penalty,0.2725020869968847,5
+2017,240,Sports Concussion: A Clinical Overview,spatiotemporal,0.26123290769288954,2
+2017,240,Sports Concussion: A Clinical Overview,kicks,0.24143153266866899,5
+2017,240,Sports Concussion: A Clinical Overview,action,0.2136523621072136,5
+2017,241,Novel technique for repairing posterior medial meniscus root tears using porcine knees and biomechanical study,achilles tendon,0.3676607685331742,5
+2017,241,Novel technique for repairing posterior medial meniscus root tears using porcine knees and biomechanical study,achilles,0.34463546201071904,5
+2017,241,Novel technique for repairing posterior medial meniscus root tears using porcine knees and biomechanical study,tendon,0.33383179487711717,5
+2017,241,Novel technique for repairing posterior medial meniscus root tears using porcine knees and biomechanical study,of achilles,0.1888060164409026,5
+2017,241,Novel technique for repairing posterior medial meniscus root tears using porcine knees and biomechanical study,stance phase,0.12923829825401964,4
+2017,242,Optimal Reactive Strength Index: Is It an Accurate Variable to Optimize Plyometric Training Effects on Measures of Physical Fitness in Young Soccer Players?,fatigue,0.3646505832532118,5
+2017,242,Optimal Reactive Strength Index: Is It an Accurate Variable to Optimize Plyometric Training Effects on Measures of Physical Fitness in Young Soccer Players?,kt,0.32584630502720274,5
+2017,242,Optimal Reactive Strength Index: Is It an Accurate Variable to Optimize Plyometric Training Effects on Measures of Physical Fitness in Young Soccer Players?,sebt,0.2903608591180813,5
+2017,242,Optimal Reactive Strength Index: Is It an Accurate Variable to Optimize Plyometric Training Effects on Measures of Physical Fitness in Young Soccer Players?,group,0.22991572317034292,5
+2017,242,Optimal Reactive Strength Index: Is It an Accurate Variable to Optimize Plyometric Training Effects on Measures of Physical Fitness in Young Soccer Players?,composite score,0.21723087001813518,5
+2017,243,"Psychosocial stress factors, including the relationship with the coach, and their influence on acute and overuse injury risk in elite female football players",fp,0.2987420034512829,5
+2017,243,"Psychosocial stress factors, including the relationship with the coach, and their influence on acute and overuse injury risk in elite female football players",fatigue,0.19452782825386591,5
+2017,243,"Psychosocial stress factors, including the relationship with the coach, and their influence on acute and overuse injury risk in elite female football players",drop landing,0.18856286369673345,5
+2017,243,"Psychosocial stress factors, including the relationship with the coach, and their influence on acute and overuse injury risk in elite female football players",landing task,0.17074853627910563,5
+2017,243,"Psychosocial stress factors, including the relationship with the coach, and their influence on acute and overuse injury risk in elite female football players",rate were,0.16202116258692523,5
+2017,244,Relationship between field tests and match running performance in high-level young Brazilian soccer players,grass,0.22974682947305114,4
+2017,244,Relationship between field tests and match running performance in high-level young Brazilian soccer players,model,0.1850020693699146,5
+2017,244,Relationship between field tests and match running performance in high-level young Brazilian soccer players,performance,0.15422127422156767,5
+2017,244,Relationship between field tests and match running performance in high-level young Brazilian soccer players,artificial,0.15233689094625819,4
+2017,244,Relationship between field tests and match running performance in high-level young Brazilian soccer players,turf,0.15098583992524658,5
+2017,245,Inferior heel pain in soccer players: a retrospective study with a proposal for guidelines of treatment,broadcast,0.267815005771988,5
+2017,245,Inferior heel pain in soccer players: a retrospective study with a proposal for guidelines of treatment,break,0.267815005771988,5
+2017,245,Inferior heel pain in soccer players: a retrospective study with a proposal for guidelines of treatment,net,0.24690475645647858,5
+2017,245,Inferior heel pain in soccer players: a retrospective study with a proposal for guidelines of treatment,automated,0.17854333718132534,5
+2017,245,Inferior heel pain in soccer players: a retrospective study with a proposal for guidelines of treatment,hidden,0.17854333718132534,5
+2017,246,Validation of a Custom Instrumented Retainer Form Factor for Measuring Linear and Angular Head Impact Kinematics,fatigue,0.39193101817779646,5
+2017,246,Validation of a Custom Instrumented Retainer Form Factor for Measuring Linear and Angular Head Impact Kinematics,angular velocities,0.22732946532967774,1
+2017,246,Validation of a Custom Instrumented Retainer Form Factor for Measuring Linear and Angular Head Impact Kinematics,angular,0.22064805097380535,1
+2017,246,Validation of a Custom Instrumented Retainer Form Factor for Measuring Linear and Angular Head Impact Kinematics,flexion angular,0.19586231889508157,1
+2017,246,Validation of a Custom Instrumented Retainer Form Factor for Measuring Linear and Angular Head Impact Kinematics,velocities in,0.19586231889508157,1
+2017,247,"Linear Acceleration in Direct Head Contact Across Impact Type, Player Position, and Playing Scenario in Collegiate Women's Soccer Players",pain,0.44308651547669836,5
+2017,247,"Linear Acceleration in Direct Head Contact Across Impact Type, Player Position, and Playing Scenario in Collegiate Women's Soccer Players",back pain,0.34162696378888596,5
+2017,247,"Linear Acceleration in Direct Head Contact Across Impact Type, Player Position, and Playing Scenario in Collegiate Women's Soccer Players",back,0.2700467531432083,5
+2017,247,"Linear Acceleration in Direct Head Contact Across Impact Type, Player Position, and Playing Scenario in Collegiate Women's Soccer Players",bp,0.18553805338338186,5
+2017,247,"Linear Acceleration in Direct Head Contact Across Impact Type, Player Position, and Playing Scenario in Collegiate Women's Soccer Players",adolescent athletes,0.17391845478498924,5
+2017,248,Importance of Strength and Power on Key Performance Indicators in Elite Youth Soccer,creatine,0.3741925771744859,5
+2017,248,Importance of Strength and Power on Key Performance Indicators in Elite Youth Soccer,fatigue index,0.21650593880083982,5
+2017,248,Importance of Strength and Power on Key Performance Indicators in Elite Youth Soccer,days,0.20292237156932155,5
+2017,248,Importance of Strength and Power on Key Performance Indicators in Elite Youth Soccer,fatigue,0.18797236229447675,5
+2017,248,Importance of Strength and Power on Key Performance Indicators in Elite Youth Soccer,repeated sprint,0.18220841330644946,5
+2017,249,The Effects of Cupping on Hamstring Flexibility in College Soccer Players,core,0.4388365821522987,5
+2017,249,The Effects of Cupping on Hamstring Flexibility in College Soccer Players,core stability,0.3017179221393468,4
+2017,249,The Effects of Cupping on Hamstring Flexibility in College Soccer Players,endurance,0.2972182827503452,5
+2017,249,The Effects of Cupping on Hamstring Flexibility in College Soccer Players,stability,0.2176781025838657,4
+2017,249,The Effects of Cupping on Hamstring Flexibility in College Soccer Players,test,0.18257646986934267,5
+2017,250,Effects of Subsensory Noise and Fatigue on Knee Landing and Cross-over Cutting Biomechanics in Male Athletes,muscle injuries,0.36509643801418873,6
+2017,250,Effects of Subsensory Noise and Fatigue on Knee Landing and Cross-over Cutting Biomechanics in Male Athletes,muscle,0.24758624749728314,5
+2017,250,Effects of Subsensory Noise and Fatigue on Knee Landing and Cross-over Cutting Biomechanics in Male Athletes,injuries,0.1929131409938333,6
+2017,250,Effects of Subsensory Noise and Fatigue on Knee Landing and Cross-over Cutting Biomechanics in Male Athletes,injuries is,0.18615092102983752,6
+2017,250,Effects of Subsensory Noise and Fatigue on Knee Landing and Cross-over Cutting Biomechanics in Male Athletes,frequent,0.1735769240168318,5
+2017,251,"Effects of Contrast Strength vs. Plyometric Training on Lower-Limb Explosive Performance, Ability to Change Direction and Neuromuscular Adaptation in Soccer Players",medial tibial,0.34738363479621776,4
+2017,251,"Effects of Contrast Strength vs. Plyometric Training on Lower-Limb Explosive Performance, Ability to Change Direction and Neuromuscular Adaptation in Soccer Players",tibial stress,0.34738363479621776,4
+2017,251,"Effects of Contrast Strength vs. Plyometric Training on Lower-Limb Explosive Performance, Ability to Change Direction and Neuromuscular Adaptation in Soccer Players",shin,0.32026088866487845,5
+2017,251,"Effects of Contrast Strength vs. Plyometric Training on Lower-Limb Explosive Performance, Ability to Change Direction and Neuromuscular Adaptation in Soccer Players",tibial,0.3137962943766503,4
+2017,251,"Effects of Contrast Strength vs. Plyometric Training on Lower-Limb Explosive Performance, Ability to Change Direction and Neuromuscular Adaptation in Soccer Players",syndrome,0.29530562306395025,5
+2017,252,Modelling equation of knee force during instep kicking using dominant’s leg in football,re,0.3294790499756376,5
+2017,252,Modelling equation of knee force during instep kicking using dominant’s leg in football,re injury,0.29797337598188905,6
+2017,252,Modelling equation of knee force during instep kicking using dominant’s leg in football,aclr,0.21846575302186205,6
+2017,252,Modelling equation of knee force during instep kicking using dominant’s leg in football,her,0.19264435573568267,5
+2017,252,Modelling equation of knee force during instep kicking using dominant’s leg in football,acl,0.17555779441613706,6
+2017,253,Comparison of Step-by-Step Kinematics in Repeated 30-m Sprints in Female Soccer Players,regard,0.21339813125780832,5
+2017,253,Comparison of Step-by-Step Kinematics in Repeated 30-m Sprints in Female Soccer Players,essential,0.18831253463485195,4
+2017,253,Comparison of Step-by-Step Kinematics in Repeated 30-m Sprints in Female Soccer Players,prevent injury,0.16642024496860824,6
+2017,253,Comparison of Step-by-Step Kinematics in Repeated 30-m Sprints in Female Soccer Players,maturation,0.14729580622133315,5
+2017,253,Comparison of Step-by-Step Kinematics in Repeated 30-m Sprints in Female Soccer Players,regard to,0.14466612850384303,5
+2017,254,Does inside passing contribute to the high incidence of groin injuries in soccer? A biomechanical analysis,nutritional,0.29730781405784984,2
+2017,254,Does inside passing contribute to the high incidence of groin injuries in soccer? A biomechanical analysis,energy,0.20281371915999385,5
+2017,254,Does inside passing contribute to the high incidence of groin injuries in soccer? A biomechanical analysis,habits,0.18948996651789454,5
+2017,254,Does inside passing contribute to the high incidence of groin injuries in soccer? A biomechanical analysis,nutrition,0.18272989897376735,5
+2017,254,Does inside passing contribute to the high incidence of groin injuries in soccer? A biomechanical analysis,maintain,0.16849127876281547,5
+2017,255,Experimental Evaluation of UWB Indoor Positioning for Sport Postures,ability to,0.32688852018214215,4
+2017,255,Experimental Evaluation of UWB Indoor Positioning for Sport Postures,passing,0.295783592562562,5
+2017,255,Experimental Evaluation of UWB Indoor Positioning for Sport Postures,ability,0.2605904401265304,4
+2017,255,Experimental Evaluation of UWB Indoor Positioning for Sport Postures,sense,0.15952130733736428,5
+2017,255,Experimental Evaluation of UWB Indoor Positioning for Sport Postures,perspective,0.15312112555794952,5
+2017,256,Risk assessment of the onset of Osgood–Schlatter disease using kinetic analysis of various motions in sports,device,0.2585585995705385,5
+2017,256,Risk assessment of the onset of Osgood–Schlatter disease using kinetic analysis of various motions in sports,sham,0.18391096030837378,5
+2017,256,Risk assessment of the onset of Osgood–Schlatter disease using kinetic analysis of various motions in sports,postural,0.1797845027836076,2
+2017,256,Risk assessment of the onset of Osgood–Schlatter disease using kinetic analysis of various motions in sports,mild,0.15251733888011818,5
+2017,256,Risk assessment of the onset of Osgood–Schlatter disease using kinetic analysis of various motions in sports,compression,0.15251733888011818,4
+2017,257,Frequency of Self-Reported Concussion Amongst Professional and Semi-Professional Footballers in Ireland During the 2014 Season: a Cross-Sectional Study,units,0.5518743090443821,5
+2017,257,Frequency of Self-Reported Concussion Amongst Professional and Semi-Professional Footballers in Ireland During the 2014 Season: a Cross-Sectional Study,si,0.21132594541445682,5
+2017,257,Frequency of Self-Reported Concussion Amongst Professional and Semi-Professional Footballers in Ireland During the 2014 Season: a Cross-Sectional Study,only most,0.21132594541445682,5
+2017,257,Frequency of Self-Reported Concussion Amongst Professional and Semi-Professional Footballers in Ireland During the 2014 Season: a Cross-Sectional Study,to international,0.21132594541445682,2
+2017,257,Frequency of Self-Reported Concussion Amongst Professional and Semi-Professional Footballers in Ireland During the 2014 Season: a Cross-Sectional Study,duplicate,0.21132594541445682,5
+2017,258,"The Evolving Treatment Patterns of NCAA Division I Football Players by Orthopaedic Team Physicians Over the Past Decade, 2008-2016",dominant foot,0.22572422927501107,5
+2017,258,"The Evolving Treatment Patterns of NCAA Division I Football Players by Orthopaedic Team Physicians Over the Past Decade, 2008-2016",dominant,0.22163546672994155,5
+2017,258,"The Evolving Treatment Patterns of NCAA Division I Football Players by Orthopaedic Team Physicians Over the Past Decade, 2008-2016",shooting,0.1918847852628113,5
+2017,258,"The Evolving Treatment Patterns of NCAA Division I Football Players by Orthopaedic Team Physicians Over the Past Decade, 2008-2016",technical,0.18739763912519194,2
+2017,258,"The Evolving Treatment Patterns of NCAA Division I Football Players by Orthopaedic Team Physicians Over the Past Decade, 2008-2016",his,0.16797061759626847,5
